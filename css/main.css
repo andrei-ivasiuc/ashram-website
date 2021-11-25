@@ -1,5 +1,7 @@
 :root{
     --gold: #beba54;
+    --primary: var(gold)
+    --secondary: #000;
 }
 
 body{
@@ -10,23 +12,37 @@ h1, h2, h3, h4{
     color: var(--gold);
 }
 
+/* -- Video */
+
+.fullscreen-bg{
+    /* display: block;
+	width: 100%;
+    display:inherit;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100; */
+}
+
 /* -- Articles */
 
 #articles{
     padding: 40px 0;
 }
 
-    #articles .card{
+    #articles .card, #events .card{
         border: none;
     }
 
-    #articles .card-body h4 a{
+    #articles .card-body h4 a, #events .card-body h4 a{
         color: var(--gold);
         text-decoration: none;
         font-size: 18px;
     }
 
-    #articles .card-body .card-text a{
+    #articles .card-body .card-text a, #events .card-body .card-text a{
         color: #000;
         text-decoration: none;
         font-size: 14px;
