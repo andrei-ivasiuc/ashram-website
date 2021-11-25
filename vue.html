@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@next"></script>
+
+    
+
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <script>
+        const { createApp, h } = Vue
+
+        const NotFoundComponent = { template: '<p>Page not found</p>' }
+        const HomeComponent = { template: '<p>Home page</p>' }
+        const AboutComponent = { template: '<p>About page</p>' }
+
+        const routes = {
+            '/': HomeComponent,
+            '/about': AboutComponent
+        }
+
+        const SimpleRouter = {
+            data: () => ({
+                currentRoute: window.location.pathname
+            }),
+
+            computed: {
+                CurrentComponent() {
+                    return routes[this.currentRoute] || NotFoundComponent
+                }
+            },
+
+            render() {
+                return h(this.CurrentComponent)
+            }
+        }
+
+        createApp(SimpleRouter).mount('#app')
+    </script>
+</body>
+
+</html>
