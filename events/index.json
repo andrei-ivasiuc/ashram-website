@@ -4,5 +4,11 @@
         "title": "Tara didi's birthday",
         "description": "Our beloved and legendary mentor, Tara Didi turned 85 on 5th July",
         "img": "/events/taradidi-birthday/img/cover.jpg"
-    }
+    },
+    {
+        "path": "/events/exhibition",
+        "title": "Exhibition",
+        "description": "Exhibition of Photo gallery with the Divine Signature",
+        "img": "/events/exhibition/img/inauguration.jpg"
+    }    
 ]
