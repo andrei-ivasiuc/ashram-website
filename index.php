@@ -1,81 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
-
-    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/fancybox/fancybox.css">
-    <script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="/js/jquery-3.6.0.min.js"></script>
-    <script src="/fancybox/fancybox.umd.js" ></script>
-    <script src="/js/main.js"></script>
-    <title>Document</title>
-
-</head>
-
-<body>
-
-    <!-- TOP MENU -->
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
-                aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand" href="#"><img src="/img/logo.png" alt="" height="30px"> Sri Aurobindo Ashram - Delhi Branch</a>
-
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Link
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+<?php require_once('header.php')?>
 
     <!-- VIDEO BACKGROUND -->
-<!-- <div class="fullscreen-bg">	   
+<div class="fullscreen-bg">	   
     <video loop muted autoplay  class="fullscreen-bg__video">
         <source src="/video/ashram-bg.mp4" type="video/mp4">	        
     </video>
-</div> -->
+</div>
 
-    <!-- ARTICLES -->
+    <!-- PAST EVENTS -->
     
     <section id="events">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <h3>Events</h3>
+                    <h3>Past Events</h3>
                 </div>
             </div>
             <div class="row" id="events-container"></div>
         </div>
     </section>
+
+    <!-- ARTICLES -->
 
     <section id="articles">
         <div class="container">

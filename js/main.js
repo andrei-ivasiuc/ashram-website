@@ -1,4 +1,10 @@
-$(function() {
+$(function () {
+
+    // Bootstrap dropdown open on hover
+
+    $('.dropdown').hover(function () {
+        $('.dropdown-toggle', this).trigger('click');
+    });
 
     const tpl = article => `
         <div class="col">
@@ -12,17 +18,17 @@ $(function() {
         </div>
     `
 
-    $.getJSON('/articles/index.json', function(data, status){
+    $.getJSON('/articles/index.json', function (data, status) {
         const container = $('#article-container');
         container.html(data.slice(0, 4).map(tpl).join(''))
     });
 
-    $.getJSON('/events/index.json', function(data, status){
+    $.getJSON('/events/index.json', function (data, status) {
         const container = $('#events-container');
         container.html(data.slice(0, 4).map(tpl).join(''))
     });
 
-    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+    $(document).on('click', '[data-toggle="lightbox"]', function (event) {
         event.preventDefault();
         $(this).ekkoLightbox();
     });
