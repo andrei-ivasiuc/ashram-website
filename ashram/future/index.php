@@ -1,6 +1,6 @@
 <?php require_once('../../header.php') ?>
 
-<section class="sa-section">
+<section class="sa-section" style="background-color: var(--bg-light);">
     <div class="container">
         <div class="row">
             <div class="col-lg col-md-12">
@@ -38,7 +38,7 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -61,7 +61,7 @@
     </div>
 </section>
 
-<section class="sa-section">
+<section class="sa-section" style="background-color: var(--bg-light);">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -84,7 +84,7 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -105,7 +105,7 @@
     </div>
 </section>
 
-<section class="sa-section">
+<section class="sa-section" style="background-color: var(--bg-light);">
     <div class="container">
 
         <div class="row">
