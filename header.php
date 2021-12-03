@@ -46,11 +46,11 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><h6 class="dropdown-header">About The Ashram</h6></li>
                             <li><a class="dropdown-item" href="/ashram/introduction">Introduction</a></li>
-                            <li><a class="dropdown-item" href="#">Achievments of the Golden Past</a></li>
-                            <li><a class="dropdown-item" href="#">Towards the Glorious Future</a></li>
-                            <li><a class="dropdown-item" href="#">Facilities</a></li>
-                            <li><a class="dropdown-item" href="#">Vocational Training</a></li>
-                            <li><a class="dropdown-item" href="#">Annual Reports</a></li>
+                            <li><a class="dropdown-item" href="/ashram/history">History</a></li>
+                            <li><a class="dropdown-item" href="/ashram/future">Towards the Glorious Future</a></li>
+                            <li><a class="dropdown-item" href="/ashram/facilities">Facilities</a></li>
+                            <li><a class="dropdown-item" href="/ashram/vocational-training">Vocational Training</a></li>
+                            <li><a class="dropdown-item" href="/ashram/reports">Annual Reports</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
