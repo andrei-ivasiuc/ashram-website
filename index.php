@@ -8,30 +8,10 @@
 </div>
 
     <!-- PAST EVENTS -->
-    
-    <section id="events">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h3>Past Events</h3>
-                </div>
-            </div>
-            <div class="row" id="events-container"></div>
-        </div>
-    </section>
+    <?php include_once("events.php")?>
 
     <!-- ARTICLES -->
-
-    <section id="articles">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h3>Articles</h3>
-                </div>
-            </div>
-            <div class="row" id="article-container"></div>
-        </div>
-    </section>
+    <?php include_once("articles.php")?>
 
     <section class="left-img">
         <div class="container">

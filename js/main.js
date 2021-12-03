@@ -18,15 +18,15 @@ $(function () {
         </div>
     `
 
-    $.getJSON('/articles/index.json', function (data, status) {
-        const container = $('#article-container');
-        container.html(data.slice(0, 4).map(tpl).join(''))
-    });
+    // $.getJSON('/articles/index.json', function (data, status) {
+    //     const container = $('#article-container');
+    //     container.html(data.slice(0, 4).map(tpl).join(''))
+    // });
 
-    $.getJSON('/events/index.json', function (data, status) {
-        const container = $('#events-container');
-        container.html(data.slice(0, 4).map(tpl).join(''))
-    });
+    // $.getJSON('/events/index.json', function (data, status) {
+    //     const container = $('#events-container');
+    //     container.html(data.slice(0, 4).map(tpl).join(''))
+    // });
 
     $(document).on('click', '[data-toggle="lightbox"]', function (event) {
         event.preventDefault();

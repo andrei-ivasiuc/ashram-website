@@ -210,7 +210,8 @@ h2.lg{
             top: calc(var(--vertical-offset) + var(--padding));
             width: var(--bullet-width);
             height: var(--bullet-height);
-            background: rgba(0, 0, 0, .2);
+            background: var(--gold-dull);
+
             position: absolute;
             left: calc(50% - var(--bullet-width) / 2 + var(--line-width) / 2);
             clip-path: polygon(0% 50%, 10% 50%, 30% 90%, 70% 90%, 90% 50%, 70% 10%, 30% 10%, 10% 50%, 0% 50%, 25% 0%, 75% 1%, 100% 50%, 75% 100%, 25% 100%);
@@ -221,10 +222,10 @@ h2.lg{
             z-index: 99;
             content: "";
             position: absolute;
-            width: 5px;
-            background: rgba(0, 0, 0, .2);
-            top: calc(var(--vertical-offset) + var(--padding) + var(--bullet-height));
             left: 50%;
+            width: 5px;
+            background: var(--gold-dull);
+            top: calc(var(--vertical-offset) + var(--padding) + var(--bullet-height));
             bottom: calc(-1 * ( var(--vertical-offset) + var(--padding) + 1px ) );
 
         }

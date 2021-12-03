@@ -1,7 +1,7 @@
 <?php require_once('../../header.php') ?>
 
 <section id="timeline">
-    <article class="episode right" style="--section-bg-color: #e1ddd1; clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);">
+    <article class="episode right" style="--section-bg-color: #e1ddd1;">
         <div class="container">
             <div class="img"><img src="./img/the-mother-with-shri-surendra-nath-jauhar.jpg" alt=""></div>
             <div class="text">
