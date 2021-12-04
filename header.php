@@ -62,7 +62,7 @@
                             Social Initiative
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">Social Projects</a></li>
+                            <li><a class="dropdown-item" href="/social-initiative/social-projects">Social Projects</a></li>
                             <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
                         </ul>
                     </li>
@@ -98,9 +98,14 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
                             Volunteering
                         </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="/volunteering/service/">Experience simplicity and joy in service</a></li>
+                            <li><a class="dropdown-item" href="/volunteering/flyer">Download Flyer beckoning to volunteers</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">

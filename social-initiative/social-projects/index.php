@@ -313,7 +313,7 @@
                 <h2 class="sm mb-4" style="text-align:center">SUPPORTING AND PROMOTING EDUCATION</h2>
                 <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/education.jpg" alt=""></div>
+                        <div class="sa-img" style="height: 300px; clip-path: polygon(0 0, 95% 8%, 100% 89%, 0% 100%);"><img src="./img/education.jpg" alt=""></div>
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <p>Education not only widens our horizons but also aids us in becoming complete individuals. Keeping this perspective in mind, Sri Aurobindo Ashram - Delhi Branch started its Sponsorship Scheme with the sole aim of uplifting the under privileged children by arming them with the most precious tool - Education. The focus of this scheme is mainly on the children from remote, tribal, rural and hilly areas of India. All expenses for these children including tuition, boarding, lodging, training, books, clothes, travel expenses, etc. are borne by the Sri Aurobindo Ashram-Delhi
