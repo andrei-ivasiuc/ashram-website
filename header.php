@@ -8,14 +8,17 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
 
-    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet"> -->
+
+    <link href="/lib/fontawesome/css/all.min.css" rel="stylesheet">
+
+    <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/fancybox/fancybox.css">
-    <script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="/js/jquery-3.6.0.min.js"></script>
-    <script src="/fancybox/fancybox.umd.js" ></script>
+    <link rel="stylesheet" href="/lib/fancybox/fancybox.css">
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/jquery-3.6.0.min.js"></script>
+    <script src="/lib/fancybox/fancybox.umd.js" ></script>
     <script src="/js/main.js"></script>
     <title>Document</title>
 
@@ -60,7 +63,7 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><a class="dropdown-item" href="#">Social Projects</a></li>
-                            <li><a class="dropdown-item" href="#">Current Projects</a></li>
+                            <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

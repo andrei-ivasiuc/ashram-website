@@ -2,7 +2,17 @@
     {
         "path": "/events/taradidi-birthday",
         "title": "Tara didi's birthday",
+        "date": "23-08-2021",
         "description": "Our beloved and legendary mentor, Tara Didi turned 85 on 5th July",
-        "img": "/events/taradidi-birthday/img/cover.jpg"
+        "img": "/events/taradidi-birthday/img/cover.jpg",
+        "type": "celebration"
+    },
+    {
+        "path": "/events/taradidi-birthday",
+        "title": "Workshop on Meditation",
+        "date": "23-08-2021",
+        "description": "Meditation is silence and so we aare.",
+        "img": "/events/taradidi-birthday/img/cover.jpg",
+        "type": "workshop"
     }
 ]

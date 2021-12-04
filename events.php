@@ -1,6 +1,6 @@
 <?php
 
-if(!file_exists("events/index.json")){
+if (!file_exists("events/index.json")) {
     return;
 }
 
@@ -20,25 +20,31 @@ $latest_events = array_slice($events, 0, 4);
 ?>
 
 <?php if (count($latest_events) > 0) : ?>
-    <section id="events">
+    <section id="events" class="home-section" style="background-color: #eee;">
         <div class="container">
             <div class="row">
-                <div class="col">
-                    <h3>Events</h3>
+                <div class="col text-center mb-4">
+                    <h2>Ashram Program</h2>
                 </div>
             </div>
-            <div class="row" id="event-container">
+            <div class="row mb-5">
                 <?php foreach ($latest_events as $i => $event) : ?>
                     <div class="col-12 col-lg-3 col-md-6">
-                        <div class="card">
+                        <div class="card <?php echo $event["type"]?>">
                             <a href="<?php echo $event["path"] ?>"><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
                             <div class="card-body">
                                 <h4><a href="<?php echo $event["path"] ?>"><?php echo $event["title"] ?></a></h4>
+                                <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
                                 <p class="card-text"><a href="<?php echo $event["path"] ?>"><?php echo $event["description"] ?></a></p>
                             </div>
                         </div>
                     </div>
                 <?php endforeach; ?>
+            </div>
+            <div class="row">
+                <div class="col text-center">
+                    <a href="/articles" class="btn btn-lg btn-primary">See all Events</a>
+                </div>
             </div>
         </div>
     </section>
