@@ -70,8 +70,8 @@
                             Programs
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">Celebration Days</a></li>
-                            <li><a class="dropdown-item" href="#">Events/Workshops</a></li>
+                            <li><a class="dropdown-item" href="/celebration-days/">Celebration Days</a></li>
+                            <li><a class="dropdown-item" href="/events/">Events/Workshops</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -79,8 +79,8 @@
                             Gallery
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">The Mother and Sri Aurobindo Photo Gallery</a></li>
-                            <li><a class="dropdown-item" href="#">Ashram Video Gallery</a></li>
+                            <li><a class="dropdown-item" target="_blank" href="http://saaonline.net.in/samo_gallery/">The Mother and Sri Aurobindo Photo Gallery</a></li>
+                            <li><a class="dropdown-item" target="_blank" href="https://www.youtube.com/channel/UCcmF6JzAOsBMdqJjZbnmyng/videos">Ashram Video Gallery</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -88,18 +88,18 @@
                             Camps
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">Madhuban</a></li>
-                            <li><a class="dropdown-item" href="#">Nainital</a></li>
-                            <li><a class="dropdown-item" href="#">Youth Camps</a></li>
+                            <li><a class="dropdown-item" href="/camps/madhuban">Madhuban</a></li>
+                            <li><a class="dropdown-item" href="/camps/nainital">Nainital</a></li>
+                            <li><a class="dropdown-item" href="/camps/youth">Youth Camps</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Volunteering
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><a class="dropdown-item" href="/volunteering/service/">Experience simplicity and joy in service</a></li>
-                            <li><a class="dropdown-item" a="" target="_blank" href="/volunteering/flyer/Volunteerprogram.pdf">Download flyer-beckoning<br> to volunteers</a></li>
+                            <li><a class="dropdown-item" target="_blank" href="/volunteering/flyer/Volunteerprogram.pdf">Download flyer-beckoning<br> to volunteers</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
