@@ -46,7 +46,7 @@
                 </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6">
 
-                        <div class="sa-img" style="height: 300px;"><img src="./img/math-class.jpg" alt=""></div>
+                        <div class="sa-img" style="height: 300px;"><img src="./img/storytelling.jpg" alt=""></div>
 
                         <div class="gallery-wrap mt-4" style="--gallery-columns: 4;">
                             <?php gallery("./img/storytelling")?>

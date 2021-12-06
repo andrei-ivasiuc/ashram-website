@@ -21,6 +21,7 @@
             <div class="text">
                 <h3>Sri Aurobindo Ashram — Delhi Branch</h3>
                 <p>
+                    
                     This Ashram has been created with another object than that ordinarily common to such institutions, not for the renunciation of the world but as a centre and field of practice for the evolution of another kind and form of life which would in the final end be moved by a higher spiritual consciousness and embody a greater life of the spirit.
                     <q>Sri Aurobindo, Letters on Yoga, p. 847</q>
                 </p>

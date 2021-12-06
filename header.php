@@ -88,12 +88,12 @@
                             Camps
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="#">Madhuban</a></li>
+                            <li><a class="dropdown-item" href="/camps/madhuban">Madhuban</a></li>
                             <li><a class="dropdown-item" href="#">Nainital</a></li>
                             <li><a class="dropdown-item" href="#">Youth Camps</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Volunteering
                         </a>

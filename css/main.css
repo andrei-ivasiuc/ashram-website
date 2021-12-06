@@ -423,3 +423,31 @@ h2.lg {
     margin-top: 10px;
     max-width: 300px;
 }
+
+section.image-bg {
+    position: relative;
+}
+
+section.image-bg.container {
+    z-index: 2;
+}
+
+section.image-bg::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: var(--bg-img) no-repeat;
+}
+
+section.image-bg h2 {
+    color: #fff;
+    margin: 100px 0;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
