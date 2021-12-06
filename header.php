@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="/lib/fancybox/fancybox.css">
     <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/lib/jquery-3.6.0.min.js"></script>
-    <script src="/lib/fancybox/fancybox.umd.js" ></script>
+    <script src="/lib/fancybox/fancybox.umd.js"></script>
     <script src="/js/main.js"></script>
     <title>Document</title>
 
@@ -30,8 +30,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-gold">
         <div class="container">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
-                aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="/"><img src="/img/logo.svg" alt="Sri Aurobindo Ashram - Delhi Branch" height="50px"></a>
@@ -42,12 +41,13 @@
                         <a class="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             The Ashram
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><h6 class="dropdown-header">About The Ashram</h6></li>
+                            <li>
+                                <h6 class="dropdown-header">About The Ashram</h6>
+                            </li>
                             <li><a class="dropdown-item" href="/ashram/introduction">Introduction</a></li>
                             <li><a class="dropdown-item" href="/ashram/history">History</a></li>
                             <li><a class="dropdown-item" href="/ashram/future">Towards the Glorious Future</a></li>
@@ -57,8 +57,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Social Initiative
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -67,8 +66,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Programs
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -77,8 +75,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Gallery
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -87,8 +84,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Camps
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -98,19 +94,16 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Volunteering
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><a class="dropdown-item" href="/volunteering/service/">Experience simplicity and joy in service</a></li>
-                            <li><a class="dropdown-item" href="/volunteering/flyer">Download Flyer beckoning to volunteers</a></li>
+                            <li><a class="dropdown-item" a="" target="_blank" href="/volunteering/flyer/Volunteerprogram.pdf">Download flyer-beckoning<br> to volunteers</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            Visit Us
-                        </a>
+                        <a class="nav-link" href="/visit-us/">Visit Us</a>
                     </li>
                 </ul>
             </div>
