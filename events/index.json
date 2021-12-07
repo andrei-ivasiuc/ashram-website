@@ -1,9 +1,7 @@
-[
-    {
+[{
         "path": "/events/taradidi-birthday",
         "title": "Tara didi's birthday",
         "date": "23-08-2021",
-        "description": "Our beloved and legendary mentor, Tara Didi turned 85 on 5th July",
         "img": "/events/taradidi-birthday/img/cover.jpg",
         "type": "celebration"
     },
@@ -11,8 +9,14 @@
         "path": "/events/taradidi-birthday",
         "title": "Workshop on Meditation",
         "date": "23-08-2021",
-        "description": "Meditation is silence and so we aare.",
-        "img": "/events/taradidi-birthday/img/cover.jpg",
+        "img": "http://ashram.local/social-initiative/current-projects/img/math/jenny%209%20new-thumb.jpg",
         "type": "workshop"
+    },
+    {
+        "path": "/events/christmas-2021",
+        "title": "Christmas Celebration",
+        "date": "24-12-2021",
+        "img": "http://ashram.local/social-initiative/current-projects/img/math/Bhagaban%20new-thumb.jpg",
+        "type": "celebration"
     }
 ]
