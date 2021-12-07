@@ -1,11 +1,10 @@
 <?php require_once('../../header.php') ?>
 
 <section class="image-bg pt-4 pb-4" style="--bg-img: url(/camps/madhuban/img/bg.jpeg);">
-    <div class="container">
+    <div class="container text-center">
         <h2>Madhuban</h2>
 
-        <iframe width="100%" height="550px" src="https://www.youtube.com/embed/hoWLxM3Gu2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+        <iframe width="860" height="315" src="https://www.youtube.com/embed/hoWLxM3Gu2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
     </div>
 </section>

@@ -339,8 +339,22 @@ h2.lg {
     grid-gap: 160px;
 }
 
-#timeline .episode.right {
-    direction: rtl;
+#timeline .episode .img .img-caption {
+    font-size: 14px;
+    color: #777;
+    padding: 10px;
+}
+
+#timeline .episode.right .img {
+    order: 2;
+}
+
+#timeline .episode.right .img .img-caption {
+    text-align: right;
+}
+
+#timeline .episode.right .text {
+    order: 1;
 }
 
 #timeline .episode::before {
@@ -348,7 +362,7 @@ h2.lg {
     top: calc(var(--vertical-offset) + var(--padding));
     width: var(--bullet-width);
     height: var(--bullet-height);
-    background: var(--gold-dull);
+    background: #dbd5c8;
     position: absolute;
     left: calc(50% - var(--bullet-width) / 2 + var(--line-width) / 2);
     clip-path: polygon(0% 50%, 10% 50%, 30% 90%, 70% 90%, 90% 50%, 70% 10%, 30% 10%, 10% 50%, 0% 50%, 25% 0%, 75% 1%, 100% 50%, 75% 100%, 25% 100%);
@@ -360,7 +374,7 @@ h2.lg {
     position: absolute;
     left: 50%;
     width: 5px;
-    background: var(--gold-dull);
+    background: #dbd5c8;
     top: calc(var(--vertical-offset) + var(--padding) + var(--bullet-height));
     bottom: calc(-1 * ( var(--vertical-offset) + var(--padding) + 1px));
 }
@@ -392,8 +406,7 @@ h2.lg {
 
 #timeline .episode .text h4 {
     margin: 0;
-    color: #584428;
-    font-weight: bold;
+    color: rgba(0, 0, 0, .5);
     text-transform: uppercase;
     font-size: 20px;
     letter-spacing: 3px;
