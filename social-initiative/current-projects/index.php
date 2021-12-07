@@ -22,7 +22,7 @@
                         <div class="sa-img" style="height: 300px;"><img src="./img/math-class.jpg" alt=""></div>
 
                         <div class="gallery-wrap mt-4" style="--gallery-columns: 4;">
-                            <?php gallery("./img/math-class")?>
+                            <?php gallery("./img/math")?>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <div class="sa-img" style="height: 300px;"><img src="./img/storytelling.jpg" alt=""></div>
 
                         <div class="gallery-wrap mt-4" style="--gallery-columns: 4;">
-                            <?php gallery("./img/storytelling")?>
+                            <?php gallery("./img/story")?>
                         </div>
                     </div>
                 </div>
