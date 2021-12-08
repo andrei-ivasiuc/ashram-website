@@ -1,27 +1,56 @@
 <?php require_once('../../header.php') ?>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>Ahara for Sustenance:</h4>
-                <h2 class="lg mb-4">The Ashram Kitchen</h2>
+                <h4>Collections of The Mothers's<br/>Belongings:</h4>
+                <h2 class="lg mb-4">Sri Smriti</h2>
+
 
                 <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <p>We have a well-organised, modern kitchen, where simple nutritious food is cooked under hygienic conditions for the residents and guests and served in the Ashram dining room. The bakery produces high quality soya products, brown bread and a variety of nutritious biscuits and cakes without eggs.</p>
-                    </div>
+
+                        <p class="fs-5">Sri Smriti is&nbsp;an&nbsp;unusual collection of&nbsp;650&nbsp;items, many of&nbsp;which have been used by&nbsp;The Mother and some gifts given to&nbsp;Her. All of&nbsp;these exhibits have been touched by&nbsp;The Mother and given to&nbsp;Tara di&nbsp;and some others who have kept them with great care.</p>
+    <p>The exhibition contains different objects: articles of&nbsp;private use, bookmarks, pieces of&nbsp;art, handmade decorations. Each article has great value for&nbsp;us beyond the aesthetic beauty, objects say about the time, fashion, tastes as&nbsp;having a&nbsp;historical significance in&nbsp;any museum.</p>    
+</div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-roti.jpg" alt=""></div>
+
+                        <div class="sa-img" style="height: 300px;"><img src="./img/sri-smriti-guests.jpg" alt=""></div>
                     </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 ">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-bakery.jpg" alt=""></div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+
+                        <div class="sa-img" style="height: 300px;"><img src="./img/sri-smriti-expo.jpg" alt=""></div>
                     </div>
                 </div>
-
             </div>
         </div>
+    </div>
+</section>
 
+<section class="sa-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>A Home for the Seeker:</h4>
+                <h2 class="lg mb-4">The Tapasya</h2>
+
+
+                <div class="row gx-5">
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <p class="fs-5">&laquo;Tapasya&raquo; has a&nbsp;few guest rooms which are run with a&nbsp;spirit of&nbsp;service to&nbsp;the Divine. The guests, devotees or&nbsp;seekers who seek a&nbsp;spiritual life and wish to&nbsp;imbibe the teachings of&nbsp;Sri Aurobindo and The Mother are welcome to&nbsp;stay. </p>
+                        <p>They are expected to&nbsp;abide by&nbsp;the rules and discipline of&nbsp;the Ashram, participating in&nbsp;the community life and helping with the cleanliness, maintenance and growth of&nbsp;the Ashram.</p>
+                        <p><a href="/visit-us" class="btn btn-primary">Stay at Tapasya</a></p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/reception.jpg" alt=""></div>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/tapasya.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -60,7 +89,109 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+
+<section class="sa-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>Grace through Words:</h4>
+                <h2 class="lg mb-4">Knowledge</h2>
+                <div class="row">
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <p class="fs-5">The library has a&nbsp;growing collection of&nbsp;good books and periodicals on&nbsp;yoga, religion, philosophy, literature, education, science, history, geography, health and hygiene etc. The collection represents 16&nbsp;Indian and foreign languages.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <ul>
+                            <li>The library is&nbsp;open (Tuesday&nbsp;&mdash; Sunday) from 9&nbsp;a.m.&nbsp;to&nbsp;4:30 p.m.</li>
+                            <li>A&nbsp;security amount Rs. 300/- (refundable) is&nbsp;to&nbsp;be&nbsp;deposited at&nbsp;the Ashram Office before getting books issued from the library.</li>
+                            <li>Donation of&nbsp;good books and periodicals to&nbsp;the library is&nbsp;welcome.</li>
+                        </ul>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/library.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="sa-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>Sri Aurobindo Books<br/>Distribution Agency:</h4>
+                <h2 class="lg mb-4">SABDA</h2>
+                <div class="row">
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <p class="fs-5">The Delhi Branch handles sale of&nbsp;all Ashram(Pondicherry and Delhi) publications and photographs. It&nbsp;also sells incense, handmade paper and stationery, greeting cards, CDs of&nbsp;devotional songs and other Ashram products.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <p>SABDA can be&nbsp;reached&nbsp;on (011)65684153. It&nbsp;is&nbsp;open from 9:30&nbsp;am to&nbsp;6:30&nbsp;pm Monday to&nbsp;Saturday and from 9:30&nbsp;am to&nbsp;1:30pm on&nbsp;Sundays.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/sabda.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="sa-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>Light in the Cells:</h4>
+                <h2 class="lg mb-4">The Mother's Integral Health Centre</h2>
+                <div class="row">
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+
+                        <p>While the health centre primarily caters to the needs of the school children and the Ashramites, its services are open to all. The unit houses a permanent allopathic dispensary as well as many speciality clinics viz. Homeopathy, Gynecology, Dental surgery, Opthalmology, pediatrics and more. Specialized services are available by appointment. The centre also holds regular yoga, ayurveda and eye camps. The centre also provides free services and medicines to the economically poor.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+
+                        <p>It runs rural clinics in villages around Nainital in Uttarkhand, Madhya Pradesh, Orissa etc where in addition to free medical aid, clothes and other essentials are also distributed to the needy. The eye camps provide free intraocular transplants and spectacles to the economically weaker sections of society . Timings of the health centre are 8 am to 3.30 pm Monday through Saturday.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+
+                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-bakery.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="sa-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4>Ahara for Sustenance:</h4>
+                <h2 class="lg mb-4">The Ashram Kitchen</h2>
+
+                <div class="row gx-5">
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <p>We have a well-organised, modern kitchen, where simple nutritious food is cooked under hygienic conditions for the residents and guests and served in the Ashram dining room. The bakery produces high quality soya products, brown bread and a variety of nutritious biscuits and cakes without eggs.</p>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-roti.jpg" alt=""></div>
+                    </div>
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 ">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-bakery.jpg" alt=""></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -92,92 +223,10 @@
     </div>
 </section>
 
-<section class="sa-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h4>A Home for the Seeker:</h4>
-                <h2 class="lg mb-4">The Tapasya</h2>
 
 
-                <div class="row gx-5">
-                <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
 
-                        <p class="fs-5">&laquo;Tapasya&raquo; has a&nbsp;few guest rooms which are run with a&nbsp;spirit of&nbsp;service to&nbsp;the Divine. The guests, devotees or&nbsp;seekers who seek a&nbsp;spiritual life and wish to&nbsp;imbibe the teachings of&nbsp;Sri Aurobindo and The Mother are welcome to&nbsp;stay. </p>
-                        <p>They are expected to&nbsp;abide by&nbsp;the rules and discipline of&nbsp;the Ashram, participating in&nbsp;the community life and helping with the cleanliness, maintenance and growth of&nbsp;the Ashram.</p>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-
-                        <div class="sa-img" style="height: 300px;"><img src="./img/reception.jpg" alt=""></div>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
-
-                        <div class="sa-img" style="height: 300px;"><img src="./img/tapasya.jpg" alt=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="sa-section" style="background-color: var(--bg-light);">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h4>Grace through Words:</h4>
-                <h2 class="lg mb-4">Knowledge</h2>
-
-                <div class="row">
-                <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-
-                        <p class="fs-5">The library has a&nbsp;growing collection of&nbsp;good books and periodicals on&nbsp;yoga, religion, philosophy, literature, education, science, history, geography, health and hygiene etc. The collection represents 16&nbsp;Indian and foreign languages.</p>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-
-                        <ul>
-                            <li>The library is&nbsp;open (Tuesday&nbsp;&mdash; Sunday) from 9&nbsp;a.m.&nbsp;to&nbsp;4:30 p.m.</li>
-                            <li>A&nbsp;security amount Rs. 300/- (refundable) is&nbsp;to&nbsp;be&nbsp;deposited at&nbsp;the Ashram Office before getting books issued from the library.</li>
-                            <li>Donation of&nbsp;good books and periodicals to&nbsp;the library is&nbsp;welcome.</li>
-                        </ul>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
-
-                        <div class="sa-img" style="height: 300px;"><img src="./img/library.jpg" alt=""></div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="sa-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h4>Light in the Cells:</h4>
-                <h2 class="lg mb-4">The Mother's Integral Health Centre</h2>
-                <div class="row">
-                <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-
-                        <p>While the health centre primarily caters to the needs of the school children and the Ashramites, its services are open to all. The unit houses a permanent allopathic dispensary as well as many speciality clinics viz. Homeopathy, Gynecology, Dental surgery, Opthalmology, pediatrics and more. Specialized services are available by appointment. The centre also holds regular yoga, ayurveda and eye camps. The centre also provides free services and medicines to the economically poor.</p>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-
-                        <p>It runs rural clinics in villages around Nainital in Uttarkhand, Madhya Pradesh, Orissa etc where in addition to free medical aid, clothes and other essentials are also distributed to the needy. The eye camps provide free intraocular transplants and spectacles to the economically weaker sections of society . Timings of the health centre are 8 am to 3.30 pm Monday through Saturday.</p>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
-
-                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-bakery.jpg" alt=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="sa-section" style="background-color: var(--bg-light);">
+<!-- <section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -224,7 +273,7 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -255,10 +304,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="sa-section">
+<!-- <section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -276,10 +325,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<!-- <section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -299,4 +348,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->

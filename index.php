@@ -7,11 +7,42 @@
     </video>
 </div>
 
-<!-- FUTURE EVENTS -->
+<section class="cta">
+    <ul>
+        <li>
+            <a href="/visit-us" class="btn btn-lg btn-outline-primary">Visit Us</a>
+        </li>
+        <li>
+            <a href="/volunteering" class="btn btn-lg btn-outline-primary">Volunteer</a>
+        </li>
+    </ul>
+</section>
+
+
+<!-- PAST EVENTS -->
 <?php include_once("events.php") ?>
 
 <!-- ARTICLES -->
 <?php include_once("articles.php") ?>
+
+<section class="block image-overlap left">
+    <div class="container">
+        <div class="img">
+            <img src="http://sriaurobindoashram.net/Inroductionpictures/Untitled-1.png" alt="">
+        </div>
+        <div class="text">
+            <div class="inner">
+                <h3>Sri Aurobindo Ashram — Delhi Branch</h3>
+                <p>
+                    This Ashram has been created with another object than that ordinarily common to such institutions, not for the renunciation of the world but as a centre and field of practice for the evolution of another kind and form of life which would in the final end be moved by a higher spiritual consciousness and embody a greater life of the spirit.
+                    <q>Sri Aurobindo, Letters on Yoga, p. 847</q>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 
 
 <section class="left-img">
     <div class="container">
@@ -29,8 +60,33 @@
         </div>
     </div>
 
+</section>    
+<section class="left-img">
+    <div class="container">
+        <div class="img">
+            <img src="http://sriaurobindoashram.net/Inroductionpictures/Untitled-1.png" alt="">
+        </div>
+        <div class="text box">
+            <h3>Sri Aurobindo Ashram — Delhi Branch</h3>
+            <p>
+                This Ashram has been created with another object than that ordinarily common to such institutions, not for the renunciation of the world but as a centre and field of practice for the evolution of another kind and form of life which would in the final end be moved by a higher spiritual consciousness and embody a greater life of the spirit.
+                <q>Sri Aurobindo, Letters on Yoga, p. 847</q>
+            </p>
+
+        </div>
+    </div>
+
 </section>
 
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nesciunt repellendus ut deserunt quis quibusdam possimus itaque, earum fugiat reiciendis laboriosam odit maiores eos consequuntur? Distinctio cum illo deleniti esse?</div>
+            <div class="col-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia sit voluptatum ratione dicta. Voluptatibus excepturi aliquid provident recusandae et cupiditate vel libero, aut magnam debitis nihil, beatae sed ad laborum.</div>
+            <div class="col-6"><img src="http://sriaurobindoashram.net/Inroductionpictures/Untitled-1.png" alt="" width="100%" height="100%"></div>
+        </div>
+    </div>
+</section> -->
 
 <section class="left-img">
     <div class="container">
