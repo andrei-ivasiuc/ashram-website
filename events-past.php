@@ -63,4 +63,15 @@ $past_events = [];
     </section>
 <?php endif; ?>
 
-<?php include_once("events.php")?>
+<?php include_once("events.php") ?>
+
+
+<!-- //Leap year logic
+    <?php
+    $y = date('Y', strtotime($event['date']));
+    if (date('L', strtotime("$y-01-01"))) {
+    ?>
+        <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
+        <?php } else { ?>        
+        <h6><?php echo '29 Feb ' . $y . 'Not a leap year';
+        } ?> -->

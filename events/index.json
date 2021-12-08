@@ -15,14 +15,7 @@
         "img": "/events/mother-birthday/img/cover.jpg",
         "type": "celebration"
     },
-    {
-        "path": "/events/supramental",
-        "title": "Supramental Day",
-        "date": "29-02-2021",
-        "description": "Meditation is silence and so we aare.",
-        "img": "/events/supramental/img/cover.jpg",
-        "type": "event"
-    },
+    
     {
         "path": "/events/mother-first-arrival",
         "title": "Anniversary of The Mother's First arrival in Pondicherry",
