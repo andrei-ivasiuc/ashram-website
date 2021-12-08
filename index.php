@@ -112,6 +112,10 @@
         </div>
     </div>
 </section>
+
+<!--ONLINE PUBLICATIONS-->
+<?php include_once("publications.html") ?>
+
 </body>
 
 </html>

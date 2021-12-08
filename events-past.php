@@ -67,6 +67,8 @@ $past_events = [];
 
 
 <!-- //Leap year logic
+PHP has a number of formatting placeholders for the date() function. 
+One of these is "L" which returns 1 if it’s a leap year, and 0 if it is not.
     <?php
     $y = date('Y', strtotime($event['date']));
     if (date('L', strtotime("$y-01-01"))) {
@@ -74,4 +76,5 @@ $past_events = [];
         <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
         <?php } else { ?>        
         <h6><?php echo '29 Feb ' . $y . 'Not a leap year';
-        } ?> -->
+        } ?>
+ -->
