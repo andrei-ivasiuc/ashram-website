@@ -128,10 +128,12 @@
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <p>SABDA can be&nbsp;reached&nbsp;on (011)65684153. It&nbsp;is&nbsp;open from 9:30&nbsp;am to&nbsp;6:30&nbsp;pm Monday to&nbsp;Saturday and from 9:30&nbsp;am to&nbsp;1:30pm on&nbsp;Sundays.</p>
+                        <p><a href="/visit-us" class="btn btn-primary">More on SABDA</a></p>                        
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
                         <div class="sa-img" style="height: 300px;"><img src="./img/sabda.jpg" alt=""></div>
                     </div>
+
                 </div>
             </div>
         </div>

@@ -1,12 +1,12 @@
-<a href="#" class="list-group-item list-group-item-action">January</a>
-<a href="#" class="list-group-item list-group-item-action">February</a>
-<a href="#" class="list-group-item list-group-item-action">March</a>
-<a href="#" class="list-group-item list-group-item-action">April</a>
-<a href="#" class="list-group-item list-group-item-action">May</a>
-<a href="#" class="list-group-item list-group-item-action">June</a>
-<a href="#" class="list-group-item list-group-item-action">July</a>
-<a href="#" class="list-group-item list-group-item-action">August</a>
-<a href="#" class="list-group-item list-group-item-action">September</a>
-<a href="#" class="list-group-item list-group-item-action">October</a>
-<a href="#" class="list-group-item list-group-item-action">November</a>
-<a href="#" class="list-group-item list-group-item-action">December</a>
+<li><a class="dropdown-item" href="#">January</a></li>
+<li><a class="dropdown-item" href="#">February</a></li>
+<li><a class="dropdown-item" href="#">March</a></li>
+<li><a class="dropdown-item" href="#">April</a></li>
+<li><a class="dropdown-item" href="#">May</a></li>
+<li><a class="dropdown-item" href="#">June</a></li>
+<li><a class="dropdown-item" href="#">July</a></li>
+<li><a class="dropdown-item" href="#">August</a></li>
+<li><a class="dropdown-item" href="#">September</a></li>
+<li><a class="dropdown-item" href="#">October</a></li>
+<li><a class="dropdown-item" href="#">November</a></li>
+<li><a class="dropdown-item" href="#">December</a></li>

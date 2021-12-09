@@ -25,22 +25,22 @@
                     <div class="col">
                         <ul>
                             <li>12 February : Ashram Foundation Day (all day programme)</li>
-                            <li>21 February : Darshan Day and The Mother’s Birth Anniversary</li>
+                            <li><b>21 February : Darshan Day and The Mother’s Birth Anniversary</b></li>
                             <li>29 February : Supramental Day</li>
                             <li>29 March : Anniversary of The Mother’s first arrival in Pondicherry</li>
                             <li>4 April : Anniversary of Sri Aurobindo’s arrival in Pondicherry</li>
                             <li>23 April : Foundation Day of The Mother’s International School</li>
-                            <li>24 April : Darshan Day and The Mother’s final arrival in Pondicherry</li>
+                            <li><b>24 April : Darshan Day and The Mother’s final arrival in Pondicherry</b></li>
                             <li>13 August : Birth Anniversary of Sri Surendra Nath Jauhar ‘Faquir’</li>
                         </ul>
                     </div>
                     <div class="col">
                         <ul>
-                            <li>15 August : Darshan Day and Sri Aurobindo’s Birthday</li>
+                            <li><b>15 August : Darshan Day and Sri Aurobindo’s Birthday</b></li>
                             <li>2 September : Samadhi Day of Sri S.N. Jauhar ‘Faquir’</li>
                             <li>Variable date : Diwali – Festival of Light</li>
                             <li>17 November : The Mother’s Mahasamadhi Day (Day of silence)</li>
-                            <li>24 November : Darshan Day and Siddhi Day. March Past and Satsang at 6 p.m.</li>
+                            <li><b>24 November : Darshan Day and Siddhi Day. March Past and Satsang at 6 p.m.</b></li>
                             <li>5 December : Sri Aurobindo’s Mahasamadhi Day. Satsang at 10 a.m. and 6.30 p.m.</li>
                             <li>25 December : Christmas: 'The Descent of Light'. Satsang at 7 p.m.</li>
                             <li>31 December : Midnight meditation and calendar distribution.</li>

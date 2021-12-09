@@ -13,7 +13,7 @@ $events = json_decode($str, true);
 
 // Sort events DESC
 uasort($events, function ($event1, $event2) {
-    return strtotime($event1["date"]) - strtotime($event2["date"]);
+    return strtotime($event2["date"]) - strtotime($event1["date"]);
 });
 $future_events = [];
 $past_events = [];
@@ -33,7 +33,7 @@ $past_events = [];
     ?>
 <?php endforeach;
 // Take only 4 latest events
-//$latest_events = array_slice($future_events, 0, 4);
+$past_events = array_slice($past_events, 0, 4);
 //var_dump($future_events) 
 ?>
 
