@@ -12,11 +12,29 @@ $events = json_decode($str, true);
 
 // Sort events DESC
 uasort($events, function ($event1, $event2) {
-    return strtotime($event2["date"]) - strtotime($event1["date"]);
+    return strtotime($event1["date"]) - strtotime($event2["date"]);
 });
 
+$future_events = [];
+$past_events = [];
+?>
+
+<?php $today = time(); ?>
+<?php foreach ($events as $i => $event) : ?>
+    <?php
+    $event_dt = strtotime($event["date"]);
+    if ($today < $event_dt) {
+        array_push($future_events, $event);
+        //echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
+    } else {
+        array_push($past_events, $event);
+        // echo 'Past ' . $event["date"] . "Today : " . $today . "<br>";
+    }
+    ?>
+<?php endforeach;
 // Take only 4 latest events
-$latest_events = array_slice($events, 0, 4);
+$latest_events = array_slice($future_events, 0, 4);
+//var_dump($future_events) 
 ?>
 
 <?php if (count($latest_events) > 0) : ?>
