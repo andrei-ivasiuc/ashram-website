@@ -1,12 +1,28 @@
 <?php require_once('../header.php') ?>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="header-horizontal dark" style="background-color: var(--bg-grey);">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-5 offset-lg-1 d-flex flex-column justify-content-center text-center pt-5 pb-5">
+                <h2 class="mb-4">Celebration days at Sri Aurobindo Ashram</h2>
+                <p class="fs-5 mb-4">The four Darshan Days, the Foundation Day of&nbsp;the Delhi Branch, and the other special occasions are celebrated sometimes with a&nbsp;day-long programme. The birthdays of&nbsp;Sri Aurobindo and The Mother are well attended and the celebrations are spread over several days. Many devotees from the town make it&nbsp;a&nbsp;point to&nbsp;spend these days at&nbsp;the Ashram and have their meals here as&nbsp;Prasad.</p>
+            </div>
+            <div class="col offset-lg-1">
+                <div class="sa-img">
+                    <img src="http://ashram.local/events/taradidi-birthday/img/cover.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="lg mb-4">Special Days of Spiritual Significance and Activities</h2>
-                <div class="row gx-5">
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                <h2 class="lg mb-5 text-center">Special Days of Spiritual Significance and Activities</h2>
+                <div class="row">
+                    <div class="col">
                         <ul>
                             <li>12 February : Ashram Foundation Day (all day programme)</li>
                             <li>21 February : Darshan Day and The Mother’s Birth Anniversary</li>
@@ -18,7 +34,7 @@
                             <li>13 August : Birth Anniversary of Sri Surendra Nath Jauhar ‘Faquir’</li>
                         </ul>
                     </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                    <div class="col">
                         <ul>
                             <li>15 August : Darshan Day and Sri Aurobindo’s Birthday</li>
                             <li>2 September : Samadhi Day of Sri S.N. Jauhar ‘Faquir’</li>
@@ -30,34 +46,12 @@
                             <li>31 December : Midnight meditation and calendar distribution.</li>
                         </ul>
                     </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/computer-room.jpg" alt=""></div>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-<section class="sa-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2 class="lg mb-4">Celebration days at Sri Aurobindo Ashram</h2>
-                <div class="row gx-5">
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/computer-room.jpg" alt=""></div>
-                    </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <p>
-                            The four Darshan Days, the Foundation Day of the Delhi Branch, and the other special occasions are celebrated sometimes with a day-long programme. The birthdays of Sri Aurobindo and The Mother are well attended and the celebrations are spread over several days. Many devotees from the town make it a point to spend these days at the Ashram and have their meals here as Prasad.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- 
 
 <section class="sa-section" style="background-color: var(--bg-light);">
     <div class="container">
@@ -99,4 +93,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->

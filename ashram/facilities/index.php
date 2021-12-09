@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>Collections of The Mothers's<br/>Belongings:</h4>
+                <h4>Collections of The<br/>Mothers's Belongings</h4>
                 <h2 class="lg mb-4">Sri Smriti</h2>
 
 
@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>A Home for the Seeker:</h4>
+                <h4>A Home for the Seeker</h4>
                 <h2 class="lg mb-4">The Tapasya</h2>
 
 
@@ -94,9 +94,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>Grace through Words:</h4>
+                <h4>Grace through Words</h4>
                 <h2 class="lg mb-4">Knowledge</h2>
-                <div class="row">
+                <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <p class="fs-5">The library has a&nbsp;growing collection of&nbsp;good books and periodicals on&nbsp;yoga, religion, philosophy, literature, education, science, history, geography, health and hygiene etc. The collection represents 16&nbsp;Indian and foreign languages.</p>
                     </div>
@@ -120,9 +120,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>Sri Aurobindo Books<br/>Distribution Agency:</h4>
+                <h4>Sri Aurobindo Books<br/>Distribution Agency</h4>
                 <h2 class="lg mb-4">SABDA</h2>
-                <div class="row">
+                <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <p class="fs-5">The Delhi Branch handles sale of&nbsp;all Ashram(Pondicherry and Delhi) publications and photographs. It&nbsp;also sells incense, handmade paper and stationery, greeting cards, CDs of&nbsp;devotional songs and other Ashram products.</p>
                     </div>
@@ -145,7 +145,7 @@
             <div class="col-12">
                 <h4>Light in the Cells:</h4>
                 <h2 class="lg mb-4">The Mother's Integral Health Centre</h2>
-                <div class="row">
+                <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
 
                         <p>While the health centre primarily caters to the needs of the school children and the Ashramites, its services are open to all. The unit houses a permanent allopathic dispensary as well as many speciality clinics viz. Homeopathy, Gynecology, Dental surgery, Opthalmology, pediatrics and more. Specialized services are available by appointment. The centre also holds regular yoga, ayurveda and eye camps. The centre also provides free services and medicines to the economically poor.</p>
@@ -168,7 +168,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>Ahara for Sustenance:</h4>
+                <h4>Ahara for Sustenance</h4>
                 <h2 class="lg mb-4">The Ashram Kitchen</h2>
 
                 <div class="row gx-5">
@@ -195,7 +195,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h4>The Studio:</h4>
+                <h4>The Studio</h4>
                 <h2 class="lg mb-4">The Mother’s Centre of Photography</h2>
 
                 <div class="row gx-5">
@@ -214,7 +214,7 @@
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
 
-                        <div class="sa-img" style="height: 300px;"><img src="http://sriaurobindoashram.net/Facilites/Untitled-3.JPG" alt=""></div>
+                        <div class="sa-img" style="height: 400px;"><img src="http://sriaurobindoashram.net/Facilites/Untitled-3.JPG" alt=""></div>
 
                     </div>
                 </div>

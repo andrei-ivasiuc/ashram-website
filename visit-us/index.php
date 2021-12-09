@@ -1,6 +1,27 @@
 <?php require_once('../header.php') ?>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="header-horizontal dark" style="background-color: var(--bg-blue);">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-4 offset-lg-1 d-flex flex-column justify-content-center text-center pt-5 pb-5">
+                <h6 class="text-uppercase mb-3">Tapasya</h6>
+                <h2 class="mb-4">Visiting the Ashram</h2>
+                <p class="fs-5 mb-4">«Tapasya» has a few guest rooms which are run with a spirit of service to the Divine. The guests, devotees or seekers who seek a spiritual life and wish to imbibe the teachings of Sri Aurobindo and The Mother are welcome to stay.</p>
+                <p class="d-flex justify-content-center" style="gap: 20px;">
+                    <a href="#apply" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i>&nbsp;Reservation</a>
+                </p>
+            </div>
+            <div class="col offset-lg-1">
+                <div class="sa-img">
+                    <img src="./img/tapasya.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -45,7 +66,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="lg mb-4">PLEASE MAINTAIN THE SANCTITY OF THE ASHRAM</h2>
+                <h2 class="lg mb-4">Please maintain the sanctity of the Ashram</h2>
                 <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <li>

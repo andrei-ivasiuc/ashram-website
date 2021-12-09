@@ -93,14 +93,10 @@
                             <li><a class="dropdown-item" href="/camps/youth">Youth Camps</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/volunteering" role="button">
                             Volunteering
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="/volunteering/service/">Experience simplicity and joy in service</a></li>
-                            <li><a class="dropdown-item" target="_blank" href="/volunteering/flyer/Volunteerprogram.pdf">Download flyer-beckoning<br> to volunteers</a></li>
-                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/visit-us/">Visit Us</a>

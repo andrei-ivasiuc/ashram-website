@@ -1,7 +1,7 @@
 <?php require_once('../../header.php') ?>
 
 <section id="timeline">
-    <article class="episode right" style="--section-bg-color: #fbf7ee;">
+    <article class="episode right" style="--section-bg-color: var(--bg-light);">
         <div class="container">
             <div class="img"><img src="./img/the-mother-with-shri-surendra-nath-jauhar.jpg" alt="">
                 <div class="img-caption">Sri Surendranath Jauhar seeking blessings from The Mother.</div>
