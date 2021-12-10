@@ -3,11 +3,10 @@
 
 <section class="event-header" style="background-color: #eee;">
     <div class="container pt-5 text-center">
-        <h5>December 25, 2021</h5>
-        <h1>Christmas Celebration</h1>
+        <h5>December 31, 2021</h5>
+        <h1>New Year Eve</h1>
         <div class="sa-img mt-5">
-            <!-- <img src="https://nationalmuseumofmexicanart.org/img/c33eac46-7c37-4a33-947c-79a9ae29f587/ListoDecember.jpg?fm=webp&q=80&fit=max&crop=1432%2C715%2C0%2C33&w=2000" alt=""> -->
-            <img src="christmas.jpg" ;>
+            <img src="./img/newyear.jpg" ;>
         </div>
 
     </div>
@@ -17,15 +16,13 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-sm-12 fs-5 p-5">
-                <p>The Christmas day started with lots of enthusiasm and excitement at the Ashram.</p>
-                <p>In the morning Tara Didi gave us a small talk about how she celebrated Christmas with The Mother and distributed very beautiful gifts to all of us.</p>
-                <p>In the evening our Ashram Youth (Aspirants) arranged some fun games alongwith Santa, which we all played and won lots of gifts. To celebrate the light of Chirstmas, we lit the Diyas near the shrine and enjoyed the soft music offering by the Ashram Choir in the Meditation hall. The day ended with special prasad for all present in the dinning hall.</p>
+                <p style="text-align:center" >Midnight meditation and Calendar distribution</p>
             </div>
         </div>
     </div>
 </section>
 
-<section class="event-gallery">
+<!-- <section class="event-gallery">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-sm-12 fs-5 p-5 text-center">
@@ -34,7 +31,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- 
 <section class="event-pdf pt-5 pb-5">
