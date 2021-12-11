@@ -8,6 +8,8 @@
             <h2>Courage</h2>
             <img src="./courage.jpg">
         </div>
+    </section>
+    <section class="event-text">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-sm-12 fs-5 p-5">
@@ -42,7 +44,7 @@
                 </div>
             </div>
         </div>
-        </div>
     </section>
+</body>
 
 </html>

@@ -12,7 +12,7 @@
 
     </div>
 </section>
-
+<!-- 
 <section class="event-text">
     <div class="container">
         <div class="row justify-content-center">
@@ -23,8 +23,8 @@
             </div>
         </div>
     </div>
-</section>
-
+</section> -->
+<!-- 
 <section class="event-gallery">
     <div class="container">
         <div class="row justify-content-center">
@@ -34,7 +34,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- 
 <section class="event-pdf pt-5 pb-5">

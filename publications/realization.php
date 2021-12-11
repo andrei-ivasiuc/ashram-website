@@ -11,11 +11,12 @@
                     2021
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                    <li><a class="dropdown-item" href="#">January</a></li>
-                    <li><a class="dropdown-item" href="#">February</a></li>
-                    <li><a class="dropdown-item" href="#">March</a></li>
-                    <li><a class="dropdown-item" href="#">April</a></li>
-                    <li><a class="dropdown-item" href="#">May</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/emag%20Jan%202021.pdf">January</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/realization_feb_21.pdf">February</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202103_e-magazine.pdf">March</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202104_e-magazine.pdf">April</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202105_e-magazine.pdf">May</a></li>
+                </ul>
             </div>
 
             <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
@@ -23,7 +24,18 @@
                     2020
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                    <?php include("months.php") ?> </ul>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202001_e-magazine.pdf">January</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/ALL_PDF/202003_e-magazine.pdf">February</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/ALL_PDF/202003_e-magazine.pdf">March</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/ALL_PDF/202004_e-magazine.pdf">April</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202005_e-magazine(1).pdf">May</a></li>
+                    <li><a class="dropdown-item" href="#">June</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/202008_e-magazine.pdf">August</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/ALL_PDF/202009_e-magazine.pdf">September</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/emag%20Oct%202020.pdf">October</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/emag%20Novt%202020.pdf">November</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/ALL_PDF/emag%20Dec%202020.pdf">December</a></li>
+                </ul>
             </div>
 
             <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">

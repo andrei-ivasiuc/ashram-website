@@ -8,6 +8,8 @@
             <h2>Perseverance</h2>
             <img src="./perseverance.jpg">
         </div>
+    </section>
+    <section class="event-text">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-sm-12 fs-5 p-5">
@@ -17,7 +19,7 @@
                     <br>
                     <p>
 
-                        Rome was not built in a day. 
+                        Rome was not built in a day.
                         The long time that it takes to
                         do anything of lasting value
                         is itself a deterrent. On top
@@ -63,12 +65,10 @@
                         inner bulb that will take us from the darkness of ignorance
                         towards the Light of Knowledge, tamaso maa jyotirgamaya.
                     </p>
-                    
-
                 </div>
             </div>
         </div>
-        </div>
     </section>
+</body>
 
 </html>

@@ -5,6 +5,7 @@ if (!file_exists("events/index.json")) {
     return;
 }
 
+include_once("events.php");
 // Read json file with events
 $str = file_get_contents("events/index.json");
 
@@ -18,6 +19,9 @@ uasort($events, function ($event1, $event2) {
 $future_events = [];
 $past_events = [];
 ?>
+
+
+
 
 <?php $today = time(); ?>
 <?php foreach ($events as $i => $event) : ?>
@@ -62,8 +66,6 @@ $past_events = array_slice($past_events, 0, 4);
         </div>
     </section>
 <?php endif; ?>
-
-<?php include_once("events.php") ?>
 
 
 <!-- //Leap year logic

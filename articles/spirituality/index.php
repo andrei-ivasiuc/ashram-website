@@ -8,6 +8,8 @@
             <h2>Spirituality</h2>
             <img src="./spiritual.jpg">
         </div>
+    </section>
+    <section class="event-text">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-sm-12 fs-5 p-5">
@@ -145,10 +147,10 @@
                     <p>
                     <ul>
                         <li>Is our intention pure, selfless and born out of love?
-                    
-                    <li> What role is our ego playing?</li>
-                    <li> Is our intention based on truth?</li>
-                    <li>Will our intention result in an everlasting peace? </li>
+
+                        <li> What role is our ego playing?</li>
+                        <li> Is our intention based on truth?</li>
+                        <li>Will our intention result in an everlasting peace? </li>
                     </ul>
                     </p>
                     <p>
@@ -165,7 +167,7 @@
                 </div>
             </div>
         </div>
-        </div>
     </section>
+</body>
 
 </html>

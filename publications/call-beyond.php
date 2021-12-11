@@ -11,12 +11,13 @@
           2021
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-          <li><a class="dropdown-item" href="#">January</a></li>
-          <li><a class="dropdown-item" href="#">February</a></li>
-          <li><a class="dropdown-item" href="#">March</a></li>
-          <li><a class="dropdown-item" href="#">April</a></li>
-          <li><a class="dropdown-item" href="#">May</a></li>
-          <li><a class="dropdown-item" href="#">June</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Jan2021.pdf">January</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Feb2021.pdf">February</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_March2021.pdf">March</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_April2021.pdf">April</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_May2021.pdf">May</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2021.pdf">June</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2021.pdf">July</a></li>          
       </div>
 
       <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
@@ -24,7 +25,19 @@
           2020
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-          <?php include("months.php") ?> </ul>
+        <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Jan2020.pdf">January</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Feb2020.pdf">February</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_March2020.pdf">March</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_April2020.pdf">April</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_May2020.pdf">May</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2020.pdf">June</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_July2020.pdf">July</a></li>          
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Aug2020.pdf">August</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Sep2020.pdf">September</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Oct2020.pdf">October</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Nov2020.pdf">November</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Dec2020%20(1).pdf">December</a></li>  
+
       </div>
 
       <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">

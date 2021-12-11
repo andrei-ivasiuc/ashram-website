@@ -11,10 +11,11 @@
                     2021
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                    <li><a class="dropdown-item" href="#">Jan-Feb</a></li>
-                    <li><a class="dropdown-item" href="#">Mar-Apr</a></li>
-                    <li><a class="dropdown-item" href="#">May-Jun</a></li>
-                    <li><a class="dropdown-item" href="#">Jul-Aug</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/Karmdhara%20%20jan%20-%20feb%202021.pdf">Jan-Feb</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/Karmadhara%20March-%20April%202021.pdf">Mar-Apr</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/May-June2021.pdf">May-Jun</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/July-August2021.pdf">Jul-Aug</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/Karamdhara%20Sept%20-%20Oct%202021.pdf">Jul-Aug</a></li>                    
                 </ul>
             </div>
 
@@ -23,11 +24,12 @@
                     2020
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                    <li><a class="dropdown-item" href="#">February</a></li>
-                    <li><a class="dropdown-item" href="#">March</a></li>
-                    <li><a class="dropdown-item" href="#">Apr-May</a></li>
-                    <li><a class="dropdown-item" href="#">Jun-Jul</a></li>
-                    <li><a class="dropdown-item" href="#">Aug-Sep</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/21stKarmdhara2020.pdf">February</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/March2020.pdf">March</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/mayJuneFinalKarmdhara2020.pdf">May-Jun</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/julyAgust1.pdf">Jul-Aug</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/KARMADHARAoct.pdf">Sep-Oct</a></li>
+                    <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/Nov-DecKarmdhara.pdf">Nov-Dec</a></li>                    
                 </ul>
             </div>
 

@@ -3,41 +3,33 @@
 
 <section class="event-header" style="background-color: #eee;">
     <div class="container pt-5 text-center">
-        <h5>February 12, 2022</h5>
-        <h1>Delhi Ashram Foundation Day </h1>
+        <h5>November 24, 2021</h5>
+        <h1>Siddhi Day</h1>
         <div class="sa-img mt-5">
-            <img src="./img/6.jpg" ;>
+            <img src="./img/DSC_9045.jpg" ;>
         </div>
 
     </div>
 </section>
 
-<!-- 
+
 <section class="event-text">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10 col-sm-12 fs-5 p-5">
-                <p style="text-align:center" >Delhi Ashram Foundation day</p>
+            <div class="col-lg-6 col-sm-12 fs-5 p-5">
+                <p>November 24 is a very significant day, especially for the devotees of Sri Aurobindo and the Mother, as it marks the anniversary of the Siddhi Day – 'The Day of Victory' – the descent of the Sri Krishna Consciousness or the Overmental Consciousness into the physical, which took place in the year 1926.</p>
+
             </div>
         </div>
     </div>
-</section> -->
-<!-- 
+</section>
 <section class="event-gallery">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-sm-12 fs-5 p-5 text-center">
                 <h2 class="pb-5">Gallery</h2>
-                <?php gallery("../../events/ashram-foundation/img", 5) ?>
+                <?php gallery("../../events/siddhi-day/img", 5); ?>
             </div>
         </div>
     </div>
-</section> -->
-
-<!-- 
-<section class="event-pdf pt-5 pb-5">
-    <div class="container text-center">
-        <h2 class="pb-5">Program</h2>
-        <embed src="./115birth.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="600px" width="100%" />
-    </div>
-</section> -->
+</section>
