@@ -1,20 +1,15 @@
 <?php require_once('../../header.php') ?>
+<?php require_once('../../gallery.php') ?>
 
-<section>
-    <h2 class="lg mb-4" style="text-align:center">Our Social Initiatives</h2>
-</section>
-<section class="sa-section" style="background-color: var(--bg-light);">
-    <div class="container" style="max-width: 600px;">
+<section class="sa-section">
+    <div class="container" style="max-width: 800px;">
         <div class="row">
-            <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 ">
-                <div class="sa-img" style="height: 300px;"><img src="./img/igniting-hopes.jpg" alt=""></div>
-            </div>
+        <h3 class="sm mb-4" style="text-align:center">Social Initiatives by Sri Aurobindo Ashram - Delhi Branch </h3>
+        <h2 class="lg mb-4" style="text-align:center">Igniting hopes</h2>
+        <div class="sa-img mb-4"><img src="./img/SportsWorkshopphotos/IMG_1641.jpg" alt=""></div>
             <div class="col-12">
-                <h2 class="lg mb-4" style="text-align:center">Igniting hopes</h2>
-                <h2 class="sm mb-4" style="text-align:center">Social Initiatives by Sri Aurobindo Ashram - Delhi Branch </h2>
                 <div class="row gx-5">
                     <div>
-
                         <p>For more than five decades Sri Aurobindo Ashram-Delhi Branch has been working towards bringing a positive change in every life it touches upon. Many social initiatives have been undertaken by Sri Aurobindo Ashram, Delhi branch with special emphasis to support the schools in rural areas to promote Integral education and its understanding for overall development of the children at physical, emotional, mental and spiritual level.</p>
                         <p>Some of our initiatives are: </p>
                         <ul>
@@ -31,7 +26,6 @@
                             </li>
                         </ul>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -90,12 +84,22 @@
                         </ul>
                     </div>
                 </div>
+                <section class="event-gallery">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 col-sm-12 fs-5 p-5 text-center">
+                                <h2 class="pb-5">Gallery</h2>
+                                <?php gallery("./img/SportsWorkshopPhotos", 10); ?>
+                            </div>
+                        </div>
+                    </div>
+                </section>
             </div>
         </div>
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -130,6 +134,17 @@
                             </li>
                         </ul>
                     </div>
+
+                    <section class="event-gallery">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-12 col-sm-12 fs-5 p-5 text-center">
+                                    <h2 class="pb-5">Gallery</h2>
+                                    <?php gallery("./img/ScienceWorkshopPhotos", 10); ?>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </div>
         </div>
@@ -169,7 +184,7 @@
 </section>
 
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -263,7 +278,7 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
