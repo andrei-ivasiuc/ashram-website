@@ -5,7 +5,7 @@
 <h3 style="text-align: center;"><b>Past Events</b></h3>
 <hr style="height: 1px; background-color: #6a6a6a;">
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section" >
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -53,7 +53,7 @@
     </div>
 </section>
 
-<section class="sa-section" style="background-color: var(--bg-light);">
+<section class="sa-section" >
     <div class="container">
         <div class="row">
             <div class="col-12">
