@@ -57,6 +57,7 @@
 
                             <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Annual Report</a>                            
                                 <!-- <ul class="dropdown-menu"> -->
+                                <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202021.pdf">Report 2020-21</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202019-20.pdf">Report 2019-20</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202018-19.pdf">Report 2018-19</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net//All_PDF/Annual Report 2017-2018 final soft copy small.pdf">Report 2017-18</a></li>
