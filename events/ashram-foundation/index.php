@@ -12,6 +12,7 @@
     </div>
 </section>
 
+<?php require_once('../../footer.php') ?>
 <!-- 
 <section class="event-text">
     <div class="container">

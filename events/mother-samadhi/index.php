@@ -38,3 +38,4 @@
         <embed src="./115birth.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="600px" width="100%" />
     </div>
 </section> -->
+<?php require_once('../../footer.php') ?>

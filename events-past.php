@@ -74,3 +74,5 @@ One of these is "L" which returns 1 if it’s a leap year, and 0 if it is not.
         <h6><?php echo '29 Feb ' . $y . 'Not a leap year';
         } ?>
  -->
+
+ <?php require_once('../../footer.php') ?>
