@@ -71,7 +71,7 @@
                 </ul>
             </div>
             <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 mb-4">
-                <div class="sa-img"><img src="./img/madhuban.jpg" alt=""></div>
+                <div class="sa-img"><img src="./img/nainital.jpg" alt=""></div>
             </div>
         </div>
     </div>

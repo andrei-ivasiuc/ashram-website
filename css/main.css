@@ -4,8 +4,9 @@
     --gold-dull: #979666;
     --gold-dull-rgb: 151, 150, 102;
     --dark: #1d1811;
-    --bg-light: #fbf7ee;
     --bg-grey: #f5f5ef;
+    --bg-light: var(--bg-grey);
+    /* --bg-light: #fbf7ee; */
     --bg-darker: #e9e9d6;
     --bg-darker-grey: #b5b5a5;
     --bg-blue: #efeff1;
@@ -379,7 +380,7 @@ section.cta ul li {
 }
 
 .left-img .text h3 {
-    font-family: 'PT Serif', serif;
+    font-family: 'Playfair Display', serif;;
 }
 
 .left-img .text.box {
@@ -490,6 +491,8 @@ section.cta ul li {
     margin-bottom: 40px;
     font-size: 40px;
     letter-spacing: 1px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
 }
 
 .sa-section {
@@ -510,7 +513,7 @@ section.cta ul li {
 }
 
 .sa-section h2 {
-    font-family: serif;
+    font-family: 'Playfair Display', serif;
     font-weight: bold;
     font-size: 36px;
 }

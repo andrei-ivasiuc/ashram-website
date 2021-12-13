@@ -9,8 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <!-- <link href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet"> -->
-
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;800;900&display=swap" rel="stylesheet">
+    
     <link href="/lib/fontawesome/css/all.min.css" rel="stylesheet">
 
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">

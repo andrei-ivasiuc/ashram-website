@@ -9,7 +9,7 @@
             </div>
             <div class="col offset-lg-1">
                 <div class="sa-img">
-                    <img src="http://ashram.local/events/taradidi-birthday/img/cover.jpg" alt="">
+                    <img src="./img/cover.jpg" alt="">
                 </div>
             </div>
         </div>
