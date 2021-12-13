@@ -114,18 +114,18 @@
     },
     {
         "path": "/events/christmas-2021",
-        "title": "Christmas : 'The Descent of Light'",
+        "title": "Christmas : &laquo;The Descent of Light&raquo;",
         "date": "25-12-2021",
         "description": "",
-        "img": "/events/christmas/img/cover.jpg",
+        "img": "/events/christmas-2021/img/christmas-thumb.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/newyear-eve",
+        "path": "/events/newyear-eve-2021",
         "title": "Midnight meditation and calendar distribution",
         "date": "31-12-2021",
         "description": "",
-        "img": "/events/newyear-eve/img/cover.jpg",
+        "img": "/events/newyear-eve-2021/img/ny-2021-thumb.jpeg",
         "type": "celebration"
     }
 ]

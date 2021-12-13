@@ -1,13 +1,12 @@
-<?php require_once('../../header.php') ?>
-<?php require_once('../../gallery.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/gallery.php') ?>
 
 <section class="event-header" style="background-color: #eee;">
     <div class="container pt-5 text-center">
         <h5>December 25, 2021</h5>
         <h1>Christmas Celebration</h1>
         <div class="sa-img mt-5">
-            <!-- <img src="https://nationalmuseumofmexicanart.org/img/c33eac46-7c37-4a33-947c-79a9ae29f587/ListoDecember.jpg?fm=webp&q=80&fit=max&crop=1432%2C715%2C0%2C33&w=2000" alt=""> -->
-            <img src="christmas.jpg" ;>
+            <img src="./img/christmas.jpg" />
         </div>
 
     </div>
@@ -43,3 +42,5 @@
         <embed src="./115birth.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="600px" width="100%" />
     </div>
 </section> -->
+
+<?php require_once('../../footer.php') ?>

@@ -1,5 +1,5 @@
-<?php require_once('../../header.php') ?>
-<?php require_once('../../gallery.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/gallery.php') ?>
 
 <section class="sa-section">
     <div class="container">
@@ -22,7 +22,7 @@
                         <div class="sa-img" style="height: 300px;"><img src="./img/math-class.jpg" alt=""></div>
 
                         <div class="gallery-wrap mt-4" style="--gallery-columns: 4;">
-                            <?php gallery("./img/math")?>
+                            <?php gallery("./img/math", 5)?>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <div class="sa-img" style="height: 300px;"><img src="./img/storytelling.jpg" alt=""></div>
 
                         <div class="gallery-wrap mt-4" style="--gallery-columns: 4;">
-                            <?php gallery("./img/story")?>
+                            <?php gallery("./img/story", 5)?>
                         </div>
                     </div>
                 </div>

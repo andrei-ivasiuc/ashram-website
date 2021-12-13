@@ -226,7 +226,7 @@
 </section>
 
 
-
+<?php require_once('../../footer.php') ?>
 
 <!-- <section class="sa-section">
     <div class="container">

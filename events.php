@@ -60,8 +60,8 @@ $latest_events = array_slice($future_events, 0, 4);
             </div>
             <div class="row">
                 <div class="col text-center">
-                    <a href="/articles" class="btn btn-lg btn-primary">See All Events</a>
-                    <a href="./events-past.php" class="btn btn-lg btn-outline-secondary">Past Events</a>
+                    <a href="/events" class="btn btn-lg btn-primary">See All Events</a>
+                    <a href="/events#past-events" class="btn btn-lg btn-outline-secondary">Past Events</a>
                 </div>
             </div>
         </div>

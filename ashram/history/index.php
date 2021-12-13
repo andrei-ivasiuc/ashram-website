@@ -81,3 +81,5 @@
     </article>
 
 </section>
+
+<?php require_once('../../footer.php') ?>
