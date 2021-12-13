@@ -1,5 +1,6 @@
-<?php require_once('header.php') ?>
-<?php
+<?php 
+
+require_once('header.php');
 
 if (!file_exists("events/index.json")) {
     return;
@@ -13,28 +14,25 @@ $events = json_decode($str, true);
 
 // Sort events DESC
 uasort($events, function ($event1, $event2) {
-    return strtotime($event1["date"]) - strtotime($event2["date"]);
+    return strtotime($event2["date"]) - strtotime($event1["date"]);
 });
+
 $future_events = [];
 $past_events = [];
-?>
 
-<?php $today = time(); ?>
-<?php foreach ($events as $i => $event) : ?>
-    <?php
+$today = time();
+
+foreach ($events as $i => $event){
     $event_dt = strtotime($event["date"]);
     if ($today < $event_dt) {
         array_push($future_events, $event);
-        //echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
     } else {
         array_push($past_events, $event);
-        // echo 'Past ' . $event["date"] . "Today : " . $today . "<br>";
     }
-    ?>
-<?php endforeach;
-// Take only 4 latest events
-//$latest_events = array_slice($future_events, 0, 4);
-//var_dump($future_events) 
+}
+
+$future_events = array_slice($future_events, 0, 10);
+$past_events = array_slice($past_events, 0, 20);
 ?>
 
 <?php if (count($past_events) > 0) : ?>
@@ -62,8 +60,6 @@ $past_events = [];
         </div>
     </section>
 <?php endif; ?>
-
-<?php include_once("events.php") ?>
 
 
 <!-- //Leap year logic

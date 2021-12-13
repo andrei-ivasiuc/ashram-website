@@ -164,7 +164,7 @@
 
             <div class="col">
                 <div class="sa-img">
-                    <img src="http://sriaurobindoashram.net/Tapasyapictures/Untitled-1.jpg" alt="">
+                    <img src="./img/dining-hall-serving.jpg" alt="">
                 </div>
             </div>
             <div class="col">
@@ -212,20 +212,20 @@
                 <h4>Free Yoa Classes</h4>
                 <p>(Through the Ashram reception/The Mother's Integral Health Centre)</p>
 
-                <b>FREE YOGA CLASSES</b>
-                <br>(Through the Ashram reception/The Mother's Integral Health Centre)<br><br>
+                <h4>FREE YOGA CLASSES</h4>
+                <p>(Through the Ashram reception/The Mother's Integral Health Centre)</p>
 
-                <b>SRI AUROBINDO BOOK DISTRIBUTION AGENCY - SABDA</b>
-                <br>(Mon-Sat 9:30AM to 6:30PM &amp; Sun 10:00AM to 1:00PM)<br><br>
+                <h4>SRI AUROBINDO BOOK DISTRIBUTION AGENCY - SABDA</h4>
+                <p>(Mon-Sat 9:30AM to 6:30PM &amp; Sun 10:00AM to 1:00PM)</p>
 
-                <b>KNOWLEDGE (The Ashram Library)</b>
-                <br>(Tues to Sun 10:00AM to 4:30PM Mon Closed)<br><br>
+                <h4>KNOWLEDGE (The Ashram Library)</h4>
+                <p>(Tues to Sun 10:00AM to 4:30PM Mon Closed)</p>
 
-                <b>WASHING MACHINE</b>
-                <br>(Self-Service)
+                <h4>WASHING MACHINE</h4>
+                <p>(Self-Service)</p>
             </div>
             <div class="col">
-                <div class="sa-img"><img src="http://sriaurobindoashram.net/Tapasyapictures/Untitled-2.jpg" alt=""></div>
+                <div class="sa-img"><img src="./img/reception.jpg" alt=""></div>
             </div>
         </div>
     </div>
@@ -321,3 +321,5 @@
         </div>
     </div>
 </section>
+
+<?php require_once('../footer.php') ?>

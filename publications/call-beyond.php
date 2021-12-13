@@ -1,127 +1,74 @@
 <?php require_once('../header.php') ?>
-<html>
 
-<head>
-  <style>
-    .dropbtn {
-      background-color: #6fa591;
-      color: white;
-      padding: 16px;
-      font-size: 16px;
-      border: none;
-    }
-
-    .dropdown {
-      position: relative;
-      display: inline-block;
-    }
-
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f1f1f1;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-      z-index: 1;
-    }
-
-    .dropdown-content a {
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
-    }
-
-    .dropdown-content a:hover {
-      background-color: #ddd;
-    }
-
-    .dropdown:hover .dropdown-content {
-      display: block;
-    }
-
-    .dropdown:hover .dropbtn {
-      background-color: #5f7187;
-    }
-  </style>
-</head>
-
-<body>
-  <section class="sa-section" style="background-color: var(--bg-light);">
-    <div class="container">
-      <div class="row col-12">
-        <h2 class="sm mb-4" style="text-align:center">Call Beyond</h2>
-        <div class="row gx-5">
-          <div class="col">
-          <div class="dropdown">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-              2021
-            </button>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-              <a href="#" class="dropdown-item">January</a>
-              <a href="#" class="dropdown-item">February</a>
-              <a href="#" class="dropdown-item">March</a>
-              <a href="#" class="dropdown-item">April</a>
-              <a href="#" class="dropdown-item">May</a>
-              <a href="#" class="dropdown-item">June</a>
-              <a href="#" class="dropdown-item">July</a>
-            </ul>
-          </div>
-          </div>
-         
-
-          <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4 list-group">
-            <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-              2020
-            </a>
-            <?php include("months.php") ?>
-          </div>
-
-          <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4 list-group">
-            <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-              2019
-            </a>
-            <?php include("months.php") ?>
-          </div>
-        </div>
-      </div>
+<section class="sa-section" style="background-color: var(--bg-light);">
+  <div class="container">
+    <div class="row col-12">
+      <h2 class="sm mb-4" style="text-align:center">Call Beyond</h2>
     </div>
-  </section>
-
-  <!-- ARCHIVES -->
-
-  <section class="sa-section">
-    <div class="container">
-      <div class="row col-12">
-        <h2 class="sm mb-4" style="text-align:center">Call Beyond : Archives</h2>
-        <div class="row gx-5">
-          <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group">
-            <div class="dropdown">
-              <button class="dropbtn">2018</button>
-              <div class="dropdown-content">
-                <?php include("months-hover.php") ?>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group">
-            <div class="dropdown">
-              <button class="dropbtn">2017</button>
-              <div class="dropdown-content">
-                <?php include("months-hover.php") ?>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group">
-            <div class="dropdown">
-              <button class="dropbtn">2016</button>
-              <div class="dropdown-content">
-                <?php include("months-hover.php") ?>
-              </div>
-            </div>
-          </div>
-        </div>
+    <div class="row gx-5">
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2021
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Jan2021.pdf">January</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Feb2021.pdf">February</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_March2021.pdf">March</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_April2021.pdf">April</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_May2021.pdf">May</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2021.pdf">June</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2021.pdf">July</a></li>          
       </div>
-  </section>
-</body>
 
-</html>
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2020
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+        <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Jan2020.pdf">January</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Feb2020.pdf">February</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_March2020.pdf">March</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_April2020.pdf">April</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_May2020.pdf">May</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_June2020.pdf">June</a></li>
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_July2020.pdf">July</a></li>          
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Aug2020.pdf">August</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Sep2020.pdf">September</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Oct2020.pdf">October</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Nov2020.pdf">November</a></li>  
+          <li><a class="dropdown-item" href="http://www.sriaurobindoashram.net/All_PDF/CB_Dec2020%20(1).pdf">December</a></li>  
+
+      </div>
+
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2019
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <?php include("months.php") ?> </ul>
+      </div>
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2018
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <?php include("months.php") ?> </ul>
+      </div>
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2017
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <?php include("months.php") ?> </ul>
+      </div>
+      <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          2016
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <?php include("months.php") ?> </ul>
+      </div>
+
+    </div>
+  </div>
+</section>

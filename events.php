@@ -39,13 +39,13 @@ $latest_events = array_slice($future_events, 0, 4);
 
 <?php if (count($latest_events) > 0) : ?>
     <section id="events" class="home-section">
-        <div class="container">
+        <div class="container justify-coten">
             <div class="row">
                 <div class="col text-center mb-4">
                     <h2>Happening Soon</h2>
                 </div>
             </div>
-            <div class="row mb-5">
+            <div class="row mb-5" style="justify-content: center;">
                 <?php foreach ($latest_events as $i => $event) : ?>
                     <div class="col-12 col-lg-4 col-md-6">
                         <div class="card <?php echo $event["type"]?>">
@@ -60,8 +60,8 @@ $latest_events = array_slice($future_events, 0, 4);
             </div>
             <div class="row">
                 <div class="col text-center">
-                    <a href="/articles" class="btn btn-lg btn-primary">See All Events</a>
-                    <a href="/articles" class="btn btn-lg btn-outline-secondary">Past Events</a>
+                    <a href="/events" class="btn btn-lg btn-primary">See All Events</a>
+                    <a href="/events#past-events" class="btn btn-lg btn-outline-secondary">Past Events</a>
                 </div>
             </div>
         </div>

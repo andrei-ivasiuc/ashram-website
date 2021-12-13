@@ -1,5 +1,5 @@
-<?php require_once('../../header.php') ?>
-<?php require_once('../../gallery.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/gallery.php') ?>
 
 <section class="sa-section">
     <div class="container">

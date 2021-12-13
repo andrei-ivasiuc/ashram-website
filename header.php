@@ -6,11 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;800;900&display=swap" rel="stylesheet">
-    
     <link href="/lib/fontawesome/css/all.min.css" rel="stylesheet">
 
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +39,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             The Ashram
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                        <ul class="dropdown-menu dropend" aria-labelledby="navbarScrollingDropdown">
                             <!-- <li>
                                 <h6 class="dropdown-header">About The Ashram</h6>
                             </li> -->
@@ -53,7 +48,16 @@
                             <li><a class="dropdown-item" href="/ashram/facilities">Facilities</a></li>
                             <!-- <li><a class="dropdown-item" href="/ashram/future">Towards the Glorious Future</a></li> -->
                             <li><a class="dropdown-item" href="/ashram/vocational-training">Vocational Training</a></li>
-                            <li><a class="dropdown-item" href="/ashram/reports">Annual Reports</a></li>
+                            <!-- <li><a class="dropdown-item" href="/ashram/reports">Annual Reports</a></li> -->
+
+                            <li class="nav-item dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#">Annual Report</a>
+                                <ul class="dropdown-menu menu-end ">
+                                    <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual%20Report%202021.pdf">Report 2020-21</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual%20Report%202019-20.pdf">Report 2019-20</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual Report 2018-19.pdf">Report 2018-19</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual Report 2017-2018 final soft copy small.pdf">Report 2017-18</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -66,12 +70,27 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Publications
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="/articles">Articles</a></li>
+                            <li class="nav-item dropdown dropdown-submenu dropend"><a class="dropdown-item" href="/publications">Online Publications</a>
+                            <ul class="dropdown-menu menu-end ">
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/call-beyond">The Call Beyond</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/karmadhara">श्री अरविन्द कर्मधारा</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/realization">Realization Newsletter</a></li>
+                                </ul>
+                        </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Programs
-                    </a>
+                        </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><a class="dropdown-item" href="/celebration-days/">Celebration Days</a></li>
-                            <li><a class="dropdown-item" href="/events-past.php">Events/Workshops</a></li>
+                            <li><a class="dropdown-item" href="/events">Events/Workshops</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

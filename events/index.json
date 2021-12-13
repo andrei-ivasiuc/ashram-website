@@ -2,7 +2,7 @@
     {
         "path": "/events/ashram-foundation",
         "title": "Ashram Foundation Day",
-        "date": "12-02-2021",
+        "date": "12-02-2022",
         "description": "",
         "img": "/events/ashram-foundation/img/cover.jpg",
         "type": "event"
@@ -11,7 +11,7 @@
         "path": "/events/mother-birthday",
         "title": "The Mother's Birth Anniversary",
         "date": "21-02-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/mother-birthday/img/cover.jpg",
         "type": "celebration"
     },
@@ -20,7 +20,7 @@
         "path": "/events/mother-first-arrival",
         "title": "Anniversary of The Mother's First arrival in Pondicherry",
         "date": "29-03-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/mother-first-arrival/img/cover.jpg",
         "type": "event"
     },
@@ -28,7 +28,7 @@
         "path": "/events/aurobindo-arrival",
         "title": "Anniversary of Sri Aurobindo's arrival in Pondicherry",
         "date": "04-04-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/mother-first-arrival/img/cover.jpg",
         "type": "event"
     },
@@ -36,7 +36,7 @@
         "path": "/events/foundation-mis",
         "title": "Foundation Day of The Mother’s International School",
         "date": "23-04-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/foundation-mis/img/cover.jpg",
         "type": "event"
     },
@@ -44,7 +44,7 @@
         "path": "/events/mother-final-arrival",
         "title": "Anniversary of The Mother's Final arrival in Pondicherry",
         "date": "24-04-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/mother-final-arrival/img/cover.jpg",
         "type": "event"
     },
@@ -60,7 +60,7 @@
         "path": "/events/sn-jauhar-birthday",
         "title": "Birth Anniversary of Sri Surendranath Jauhar 'Faquir'",
         "date": "13-08-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/sn-jauhar-birthday/img/cover.jpg",
         "type": "celebration"
     },
@@ -68,7 +68,7 @@
         "path": "/events/sri-aurobindo-birthday",
         "title": "Sri Aurobindo's Birthday",
         "date": "15-08-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/sri-aurobindo-birthday/img/cover.jpg",
         "type": "celebration"
     },
@@ -76,7 +76,7 @@
         "path": "/events/sn-jauhar-samadhi",
         "title": "Samadhi Day of Sri Surendranath Jauhar 'Faquir'",
         "date": "02-09-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/sn-jauhar-samadhi/img/cover.jpg",
         "type": "event"
     },
@@ -84,7 +84,7 @@
         "path": "/events/diwali",
         "title": "Diwali - Festival of Light",
         "date": "04-11-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/diwali/img/cover.jpg",
         "type": "celebration"
     },
@@ -92,7 +92,7 @@
         "path": "/events/mother-samadhi",
         "title": "The Mother’s Mahasamadhi Day (Day of silence)",
         "date": "17-11-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events//mother-samadhi/img/cover.jpg",
         "type": "event"
     },
@@ -100,32 +100,32 @@
         "path": "/events/siddhi-day",
         "title": "Siddhi Day",
         "date": "24-11-2021",
-        "description": "Meditation is silence and so we aare.",
-        "img": "/events/siddhi-day/img/cover.jpg",
+        "description": "",
+        "img": "/events/siddhi-day/img/cover-thumb.jpg",
         "type": "event"
     },
     {
         "path": "/events/sri-aurobindo-samadhi",
         "title": "Sri Aurobindo’s Mahasamadhi Day",
         "date": "05-12-2021",
-        "description": "Meditation is silence and so we aare.",
+        "description": "",
         "img": "/events/sri-aurobindo-samadhi/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/christmas",
-        "title": "Christmas : 'The Descent of Light'",
+        "path": "/events/christmas-2021",
+        "title": "Christmas : &laquo;The Descent of Light&raquo;",
         "date": "25-12-2021",
-        "description": "Meditation is silence and so we aare.",
-        "img": "/events/christmas/img/cover.jpg",
+        "description": "",
+        "img": "/events/christmas-2021/img/christmas-thumb.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/newyear-eve",
+        "path": "/events/newyear-eve-2021",
         "title": "Midnight meditation and calendar distribution",
         "date": "31-12-2021",
-        "description": "Meditation is silence and so we aare.",
-        "img": "/events/newyear-eve/img/cover.jpg",
+        "description": "",
+        "img": "/events/newyear-eve-2021/img/ny-2021-thumb.jpeg",
         "type": "celebration"
     }
 ]
