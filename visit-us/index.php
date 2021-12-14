@@ -209,9 +209,6 @@
                 <h4>Tourist Information</h4>
                 <p>(Through the Ashram Reception)</p>
 
-                <h4>Free Yoa Classes</h4>
-                <p>(Through the Ashram reception/The Mother's Integral Health Centre)</p>
-
                 <h4>FREE YOGA CLASSES</h4>
                 <p>(Through the Ashram reception/The Mother's Integral Health Centre)</p>
 
