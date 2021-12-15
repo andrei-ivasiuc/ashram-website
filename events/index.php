@@ -32,7 +32,7 @@ foreach ($events as $i => $event){
 }
 
 $future_events = array_slice($future_events, 0, 10);
-$past_events = array_slice($past_events, 0, 20);
+$past_events = array_slice($past_events, 0, 4);
 ?>
 
 <?php if (count($future_events) > 0) : ?>
@@ -43,7 +43,7 @@ $past_events = array_slice($past_events, 0, 20);
                     <h2>Happenning Soon</h2>
                 </div>
             </div>
-            <div class="row gy-4">
+            <div class="row gy-4" style="justify-content: center;">
                 <?php foreach ($future_events as $i => $event) : ?>
                     <div class="col-12 col-lg-3 col-md-6">
                         <div class="card <?php echo $event["type"] ?>">
