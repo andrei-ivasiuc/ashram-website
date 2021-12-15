@@ -3,7 +3,9 @@
 <section class="sa-section" style="background-color: var(--bg-light);">
     <div class="container">
         <div class="row col-12">
-            <h2 class="sm mb-4" style="text-align:center">Realization Newsletter</h2>
+            <h2 class="sm" style="text-align:center">Realization Newsletter</h2>
+            <h4 class="mb-4" style="text-align:center">Publication of Sri Aurobindo Ashram - Delhi Branch </h4>
+
         </div>
         <div class="row gx-5">
             <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 mb-2 list-group dropdown">
