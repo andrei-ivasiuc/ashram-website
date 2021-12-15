@@ -55,7 +55,7 @@
                         </ul>
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/computer-room.jpg" alt=""></div>
+                        <div class="sa-img" style="height: 300px;"><img src="./img/shrine.jpg" alt=""></div>
                     </div>
                 </div>
             </div>
@@ -97,19 +97,16 @@
                             <p>
                                 Ashram Stay :
                             </p>
-                            <div style="border:none; background-color: var(--bg-light);">
+                            <p>
                                 If you agree with the Ashram Rules &amp; Regulations, click on
-                                <span style="color:black; "><b>"I Agree"</b></span>below to proceed further with the reservation of accomodation.
-                            </div>
+                                <b>"I Agree"</b>below to proceed further with the reservation of accomodation.
+                            </p>
 
-                            If you agree with the Ashram Rules &amp; Regulations, click on
-
-                            <span style="color:black; background-color: var(--bg-light);"><b>"I Agree"</b></span>
-                            below to proceed further with the reservation of accomodation
-                            TO ABIDE BY THEM.
+                            <p>I HAVE READ THE GUEST RULES AND <a href="http://reservations.saaonline.net.in/VisitorForm.aspx" class="btn btn-outline-primary btn-sm">I AGREE</a> TO ABIDE BY THEM.</p>
+                            
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
-                        <div class="sa-img" style="height: 300px;"><img src="./img/computer-room.jpg" alt=""></div>
+                        <div class="sa-img" style="height: 300px;"><img src="./img/flowers.jpg" alt=""></div>
                     </div>
 
                 </div>
