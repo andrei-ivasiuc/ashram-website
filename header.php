@@ -7,14 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="/lib/fontawesome/css/all.min.css" rel="stylesheet">
-
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/lib/fancybox/fancybox.css">
-    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    
+    <link rel="stylesheet" href="/css/main.css">
     <script src="/lib/jquery-3.6.0.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/lib/fancybox/fancybox.umd.js"></script>
+
     <script src="/js/main.js"></script>
+    
     <title>Document</title>
 
 </head>
@@ -36,10 +39,10 @@
                         <a class="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             The Ashram
                         </a>
-                        <ul class="dropdown-menu dropend" aria-labelledby="navbarScrollingDropdown">
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <!-- <li>
                                 <h6 class="dropdown-header">About The Ashram</h6>
                             </li> -->
@@ -50,8 +53,18 @@
                             <li><a class="dropdown-item" href="/ashram/vocational-training">Vocational Training</a></li>
                             <!-- <li><a class="dropdown-item" href="/ashram/reports">Annual Reports</a></li> -->
 
-                            <li class="nav-item dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#">Annual Report</a>
-                                <ul class="dropdown-menu menu-end ">
+                            <li class="dropend">
+                                <a class="dropdown-item dropdown-toggle" id="socialMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Social Initiative
+                                </a>
+                                <ul class="submenu dropdown-menu" aria-labelledby="socialMenu">
+                                    <li><a class="dropdown-item" href="/social-initiative/social-projects">Social Projects</a></li>
+                                    <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropend"><a class="dropdown-item dropdown-toggle" href="#">Annual Report</a>
+                                <ul class="submenu dropdown-menu">
                                     <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual%20Report%202021.pdf">Report 2020-21</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual%20Report%202019-20.pdf">Report 2019-20</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="./All_PDF/Annual Report 2018-19.pdf">Report 2018-19</a></li>
@@ -60,32 +73,24 @@
                             </li>
                         </ul>
                     </li>
+
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Social Initiative
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" href="/social-initiative/social-projects">Social Projects</a></li>
-                            <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Publications
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
                             <li><a class="dropdown-item" href="/articles">Articles</a></li>
-                            <li class="nav-item dropdown dropdown-submenu dropend"><a class="dropdown-item" href="/publications">Online Publications</a>
-                            <ul class="dropdown-menu menu-end ">
+                            <li class="dropend"><a class="dropdown-item dropdown-toggle" href="/publications">Online Publications</a>
+                                <ul class="submenu dropdown-menu">
                                     <li><a class="dropdown-item" target="_blank" href="/publications/call-beyond">The Call Beyond</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="/publications/karmadhara">श्री अरविन्द कर्मधारा</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="/publications/realization">Realization Newsletter</a></li>
                                 </ul>
-                        </li>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Programs
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -94,7 +99,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Gallery
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -103,7 +108,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Camps
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
@@ -113,12 +118,12 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/volunteering" role="button">
+                        <a class="nav-link active" href="/volunteering" role="button">
                             Volunteering
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/visit-us/">Visit Us</a>
+                        <a class="nav-link active" href="/visit-us/">Visit Us</a>
                     </li>
                 </ul>
             </div>
