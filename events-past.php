@@ -32,7 +32,7 @@ foreach ($events as $i => $event){
 }
 
 $future_events = array_slice($future_events, 0, 10);
-$past_events = array_slice($past_events, 0, 20);
+$past_events = array_slice($past_events, 0, 4);
 ?>
 
 <?php if (count($past_events) > 0) : ?>

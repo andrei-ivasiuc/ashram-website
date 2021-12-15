@@ -39,7 +39,7 @@ $latest_events = array_slice($future_events, 0, 4);
 
 <?php if (count($latest_events) > 0) : ?>
     <section id="events" class="home-section">
-        <div class="container justify-coten">
+        <div class="container" style="justify-content:center;">
             <div class="row">
                 <div class="col text-center mb-4">
                     <h2>Happening Soon</h2>
