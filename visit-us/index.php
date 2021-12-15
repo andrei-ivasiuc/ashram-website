@@ -8,7 +8,7 @@
                 <h2 class="mb-4">Visiting the Ashram</h2>
                 <p class="fs-5 mb-4">«Tapasya» has a few guest rooms which are run with a spirit of service to the Divine. The guests, devotees or seekers who seek a spiritual life and wish to imbibe the teachings of Sri Aurobindo and The Mother are welcome to stay.</p>
                 <p class="d-flex justify-content-center" style="gap: 20px;">
-                    <a href="#apply" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i>&nbsp;Reservation</a>
+                    <a href="#reservation" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i>&nbsp;Reservation</a>
                     <a href="#how-to-reach" class="btn btn-lg btn-outline-secondary">How to Reach</a>
                 </p>
             </div>
@@ -63,7 +63,7 @@
     </div>
 </section>
 
-<section class="sa-section">
+<section class="sa-section" id="reservation">
     <div class="container">
         <div class="row">
             <div class="col-12">

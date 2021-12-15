@@ -82,9 +82,9 @@
                             <li><a class="dropdown-item" href="/articles">Articles</a></li>
                             <li class="dropend"><a class="dropdown-item dropdown-toggle" href="/publications">Online Publications</a>
                                 <ul class="submenu dropdown-menu">
-                                    <li><a class="dropdown-item" target="_blank" href="/publications/call-beyond">The Call Beyond</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="/publications/karmadhara">श्री अरविन्द कर्मधारा</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="/publications/realization">Realization Newsletter</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/call-beyond.php">The Call Beyond</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/karmadhara.php">श्री अरविन्द कर्मधारा</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/realization.php">Realization Newsletter</a></li>
                                 </ul>
                             </li>
                         </ul>

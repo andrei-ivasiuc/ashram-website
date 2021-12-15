@@ -139,6 +139,7 @@ h2,
 h3,
 h4 {
     color: var(--dark);
+    
 }
 
 h2.md {
@@ -189,7 +190,7 @@ h2.lg {
 @media (max-width: 991px) {
 
 .dropdown-menu .dropdown-menu{
-		margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
+    margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
 }
 
 }	
@@ -458,7 +459,7 @@ section.cta ul li {
 }
 
 .left-img .text h3 {
-    font-family: 'Playfair Display', serif;;
+    font-family: 'Playfair Display', serif;
 }
 
 .left-img .text.box {

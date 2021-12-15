@@ -14,7 +14,7 @@
             </div>
             <div class="col offset-lg-1">
                 <div class="sa-img">
-                    <img src="./img/cover.jpg" alt="">
+                    <img src="./img/vt-cover.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -377,7 +377,7 @@
 </section>
 
 
-<section class="sa-section">
+<section class="sa-section" id="apply">
     <div class="container">
         <div class="row">
             <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
