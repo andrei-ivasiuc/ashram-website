@@ -4,7 +4,7 @@
 <!-- VIDEO BACKGROUND -->
 <div class="fullscreen-bg">
     <video loop muted autoplay class="fullscreen-bg__video">
-        <source src="/video/ashram-bg.mp4" type="video/mp4">
+        <source src="/video/ashram-bg.mp4?x" type="video/mp4">
     </video>
 </div>
 

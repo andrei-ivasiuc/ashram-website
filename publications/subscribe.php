@@ -46,7 +46,6 @@
                 <p>
                 <b> Send an email mentioning, 'Subscribe', in the Subject to receive online publications.</p>
 </b>
-
                 <br>Please send your feedback to callbeyond@aurobindoonline.in
                 <br>
                 <br>Online publications by

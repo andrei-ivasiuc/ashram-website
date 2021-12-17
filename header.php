@@ -10,8 +10,7 @@
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/lib/fancybox/fancybox.css">
 
-    
-    <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/main.css">
     <script src="/lib/jquery-3.6.0.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/lib/fancybox/fancybox.umd.js"></script>
@@ -125,6 +124,15 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="/visit-us/">Visit Us</a>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                           Donations
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="/donations/indian-curr.php">Indian currency</a></li>
+                            <li><a class="dropdown-item" href="/donations/foreign-curr.php">Foreign currency</a></li>
+                        </ul>
+                    </li>                    
                 </ul>
             </div>
         </div>
