@@ -7,7 +7,7 @@
         <source src="/video/ashram-bg.mp4?x" type="video/mp4">
     </video>
 </div>
-
+<!-- 
 <section class="cta">
     <ul>
         <li>
@@ -17,7 +17,7 @@
             <a href="/volunteering" class="btn btn-lg btn-outline-primary">Volunteer</a>
         </li>
     </ul>
-</section>
+</section> -->
 
 
 <!-- PAST EVENTS -->

@@ -13,7 +13,7 @@
             </div>
             <div class="col offset-lg-1">
                 <div class="sa-img">
-                    <img src="./img/youth-camp.jpg" alt="">
+                    <img src="./img/youth.jpg" alt="">
                 </div>
             </div>
         </div>
