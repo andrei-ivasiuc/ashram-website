@@ -242,27 +242,27 @@
 
                         <h4>New Delhi Rly Station to Sri Aurobindo Ashram</h4>
                         <ol>
-                            <li>Bus No. - 505<br>
-                            <li>By Autorickshaw(about Rs.150 during day time)</li>
-                            <li>By Taxi(about Rs:350)</li>
+                            <li>Bus No. 505<br>
+                            <li>By Autorickshaw (about Rs.150 during day time)</li>
+                            <li>By Taxi (about Rs.350)</li>
                         </ol>
 
                         <h4>Old Delhi Rly Station to Sri Aurobindo Ashram</h4>
                         <ol>
-                            <li>Bus No. - 502<br>
-                            <li>By Autorickshaw(about Rs.175 during Day time)</li>
-                            <li>By Taxi(about Rs:350 to 400)</li>
+                            <li>Bus No. 502<br>
+                            <li>By Autorickshaw (about Rs.175 during Day time)</li>
+                            <li>By Taxi (about Rs.350 to 400)</li>
                         </ol>
 
-                        <h4>Inter State Bus Terminal (ISBT)</h4>
-                        <p>Bus No.- 501 &amp; 533</p>
+                        <h4>Inter-State Bus Terminal (ISBT)</h4>
+                        <p>Bus No. 501 &amp; 533</p>
 
                         <h4>Airport</h4>
 
-                        <p>By Taxi ( about Rs:350 to 400 during Day time)</p>
+                        <p>By Taxi ( about Rs.350 to 400 during Day time)</p>
 
                         <h4>Nearest Metro Station</h4>
-                        <p>Hauz Khas (on Yellow Line)</p>
+                        <p>Hauz Khas (Yellow Line, Magenta Line )</p>
 
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 mb-4">
@@ -287,14 +287,14 @@
             <div class="col-md-6">
                 <ul>
                     <li>
-                        Pre-paid taxi can be hired from 'pre-paid taxi booth' at airport to reach Sri Aurobindo Ashram.
+                        Pre-paid taxi can be hired from 'Pre-paid Taxi booth' at airport to reach Sri Aurobindo Ashram.
                     </li>
                     <li>
                         Please always mention Sri Aurobindo Ashram as your destination point as there is another area
                         in Delhi which has the name 'Ashram' and is quite far from us.
                     </li>
                     <li>
-                        The Ashram entrance is gate no.6 on Begumpur Road.
+                        The Ashram entrance is Gate No.6 on Begumpur Road.
                     </li>
                 </ul>
             </div>

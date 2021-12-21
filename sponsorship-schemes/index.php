@@ -3,23 +3,28 @@
 <?php require_once('../header.php') ?>
 <body>
     <section class="header-horizontal dark" style="background-color: var(--bg-darker);">
-        <div class="text-center mb-4">
-            <h2>SUPPORTING AND PROMOTING EDUCATION</h2>
-            <img src="http://www.sriaurobindoashram.net/VT/Untitled-10.PNG" class="mb-4">
+        <div class="text-center">
+            <br>
+            <h3>SUPPORTING AND PROMOTING EDUCATION</h3>
+            <br>
+            <img src="http://www.sriaurobindoashram.net/VT/Untitled-10.PNG" class="mb-2">
         </div>
-    </section>
-    <section class="event-text">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 col-sm-12 fs-5 p-5">
-                    <h4>
+        <div class="row justify-content-center">
+        <div class="col-lg-8 col-sm-12 fs-5 p-5">
+<h5>
                         What we are attempting here is to prove to the world, through a concrete example,
                         that by some inner psychological realisation and some outer organisation a world
                         can be created where most of the causes of human misery will cease to exist.
-                    </h4>
+                    </h5>
                     <br>
                     <h5>The Mother</h5>
-                    <br>
+  </div>
+</div>
+    </section>
+    <section class="sa-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-sm-12 ">
                     <p>
                         We, at Sri Aurobindo Ashram - Delhi branch, are essentially focused on supporting
                         education as we strongly believe that giving integral education to a child is our greatest
@@ -59,8 +64,8 @@
                         The sponsorship schemes have been largely used to support children and youth mainly
                         under the following four main categories:
                     </p>
-                    <h4>
-                        School Education
+                    <h4> <b>
+                        School Education</b>
                     </h4>
                     <p>
                         There are more than 500 Sri Aurobindo Schools all over the country which are run by
@@ -70,16 +75,16 @@
                         At the end of the academic year, the sponsors are provided with the progress report of
                         each child supported by them.
                     </p>
-                    <h4>
-                        Higher Education
+                    <h4> <b>
+                        Higher Education </b>
                     </h4>
                     <p>
                         Many of our Ashram Youth after finishing class XII are pursuing their online graduation in
                         different streams. We sponsor their undergraduate studies and thereafter career-oriented
                         courses.
                     </p>
-                    <h4>
-                        Vocational Training Program
+                    <h4> <b>
+                        Vocational Training Program </b>
                     </h4>
                     <p>
                         Sri Aurobindo Ashram-Delhi branch also has a vocational training programme for the
@@ -93,24 +98,54 @@
                         of their choice. During 2020-21 there were on an average 28 vocational trainees in the
                         Ashram.
                     </p>
-                    <p>
+                    <h4> <b>
                         Scholarships for School Education, Higher Education,
-                        Vocational Training, Art, Music & Yoga
-                    </p>
-                    <p>
-                        The details of amount spent under various categories in the year 2020-2021 are as under:
-                    </p>
-                    <p>
-                        Details of Program Number of students Amount (INR)
-                        School Education 161 56,98,000/-
-                        Higher Education & other
-                        courses of Music, Art & Driving
-                        17 1,15,805/-
-                        Vocational Training Program 28 2,72,100/-
-                        TOTAL 206 60,85,905/
-                </div>
+                        Vocational Training, Art, Music & Yoga </b>
+</h4>                                     
             </div>
+            <div class="row justify-content-center">
+<!-- <div class="col">
+    <div class="sa-img">
+        <img src="../../social-initiative/social-projects/img/ScienceWorkshopPhotos/WaterfilterNew.jpg" alt="">
+    </div>
+</div> -->
+<div class="col-lg-8 col-sm-12 ">
+    <h4 class="mb-4" style="text-align:center">Amount spent under various categories in the year 2020-2021</h4>
+    <table class="table">
+       <hr>
+        <tbody>
+        <tr>
+                <th scope="row">Details of Program</th>
+                <th scope="row" style="text-align:right">Number of students</th>
+                <th scope="row" style="text-align:right">Amount (INR)</th>
+            </tr>            
+            <tr>
+                <td>School Education</td>
+                <td style="text-align:right">161</td>
+                <td style="text-align:right">56,98,000/-</td>
+            </tr>
+            <tr>
+                <td>Higher Education & other courses of Music, Art & Driving</td>
+                <td style="text-align:right">17</td>
+                <td style="text-align:right">1,15,805/-</td>
+            </tr>
+            <tr>
+                <td>Vocational Training Program</td>
+                <td style="text-align:right">28</td>
+                <td style="text-align:right">2,72,100/-</td>
+            </tr>
+            <tr>
+            <th>TOTAL : </th>
+
+            <th style="text-align:right">206</th>
+                <th style="text-align:right">60,85,905/</th>
+</tr>
+        </tbody>
+    </table>
+</div>
+</div>
         </div>
     </section>
 </body>
 </html>
+<?php require_once('../footer.php') ?>

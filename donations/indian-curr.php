@@ -3,10 +3,10 @@
 <section class="sa-section">
     <div class="container justify-content-center">
         <div class="row gx-5 justify-content-center">
-            <div class="col-lg-8 col-sm-12 fs-5 p-5">
-                <h2 style="text-align:center">Donations In Indian Currency</h2>
-                <h3 class="mb-4">Bank Details of Sri Aurobindo Ashram - Delhi Branch</h3>
-                <table class="table">
+            <div class="col-lg-8 col-sm-12 fs-5 p-5" style="text-align:center">
+                <h2 >Donations In Indian Currency</h2>
+                <h4 class="mb-4">Bank Details of Sri Aurobindo Ashram - Delhi Branch</h4>
+                <table class="table" style="text-align:left">
                     <tbody>
                         <tr>
                             <th scope="row">email :</th>
@@ -58,7 +58,7 @@
 
                 <div class="row gx-5 justify-content-center" style="background-color: #e5e5d3">
 
-                    <div class="col" style="font-size: 18px">
+                    <div class="col mb-4" style="font-size: 18px">
 
                         <h4 class="mt-4" style="text-align:center"> <b>TO WHOMSOEVER IT MAY CONCERN </b> </h4>
                         <br>

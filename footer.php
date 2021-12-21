@@ -34,7 +34,7 @@
         <ul class="list-unstyled">
           <li class="mb-2"><a href="https://github.com/twbs/bootstrap/tree/v4-dev">Sri Aurobindo Ashram Pondicherry</a></li>
           <li class="mb-2"><a href="http://auromaa.org/">Auromaa</a></li>
-          <li class="mb-2"><a href="http://incarnateword.in/">Incarnate Word</a></li>
+          <li class="mb-2"><a href="http://incarnateword.in/" target="_blank">Incarnate Word</a></li>
         </ul>
       </div>
       <div class="col-6 col-lg-2 mb-3">

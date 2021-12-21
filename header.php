@@ -59,7 +59,7 @@
                                 <ul class="submenu dropdown-menu" aria-labelledby="socialMenu">
                                     <li><a class="dropdown-item" href="/social-initiative/social-projects">Social Projects</a></li>
                                     <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
-                                    <li><a class="dropdown-item" href="./sponsorship-schemes/">Sponsorship Schemes</a></li>                                    
+                                    <li><a class="dropdown-item" href="/sponsorship-schemes/">Sponsorship Schemes</a></li>                                    
                                 </ul>
                             </li>
 

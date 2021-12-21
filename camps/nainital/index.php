@@ -24,8 +24,8 @@
     <div class="container">
     <div class="row">
             <div class="col-6 offset-3 fs-5">
-            <p>The lofty peaks of&nbsp;the Himalayas have had an&nbsp;irresistible attraction for the people of&nbsp;India from the dawn of&nbsp;civilization and probably earlier as&nbsp;well. Renowned as&nbsp;the abode of&nbsp;Shiva, the hoary shrines on&nbsp;the peaks of&nbsp;this highest mountain range on&nbsp;earth attract devout pilgrims from all corners of&nbsp;India. These mountains figure in&nbsp;history and legand as&nbsp;abode of&nbsp;sages and philosophers. From these sacred peaks, again, flow Sindhu and Ganga, on&nbsp;the banks of&nbsp;which was nursed the Indian civilization, through the ups and downs of&nbsp;history.</p>
-<p>Van Niwas, Nainital, is&nbsp;an&nbsp;Ashram retreat in&nbsp;the Himalayas, picturesquely situated at&nbsp;a&nbsp;height of&nbsp;about 8000 feet (2200&nbsp;meters). The very surroundings induce calms and peace and it&nbsp;is&nbsp;an&nbsp;ideal place for silent contemplation.</p>
+            <p>The lofty peaks of&nbsp;the Himalayas have had an&nbsp;irresistible attraction for the people of&nbsp;India from the dawn of&nbsp;civilization and probably earlier as&nbsp;well. Renowned as&nbsp;the abode of&nbsp;Shiva, the hoary shrines on&nbsp;the peaks of&nbsp;this highest mountain range on&nbsp;earth attract devout pilgrims from all corners of&nbsp;India. These mountains figure in&nbsp;history and legend as&nbsp;abode of&nbsp;sages and philosophers. From these sacred peaks, again, flow Sindhu and Ganga, on&nbsp;the banks of&nbsp;which was nursed the Indian civilization, through the ups and downs of&nbsp;history.</p>
+<p>Van Niwas, Nainital, is&nbsp;an&nbsp;Ashram retreat in&nbsp;the Himalayas, picturesquely situated at&nbsp;a&nbsp;height of&nbsp;about 8000 feet (2200&nbsp;meters). The very surroundings induce calm and peace and it&nbsp;is&nbsp;an&nbsp;ideal place for silent contemplation.</p>
             </div>
         </div>
     </div>

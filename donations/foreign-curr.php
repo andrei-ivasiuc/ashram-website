@@ -3,10 +3,10 @@
 <section class="sa-section">
     <div class="container justify-content-center">
         <div class="row gx-5 justify-content-center">
-            <div class="col-lg-8 col-sm-12 fs-5 p-5">
-                <h2 style="text-align:center">Donations In Foreign Currency</h2>
-                <h3 class="mb-4">Bank Details of Sri Aurobindo Ashram - Delhi Branch</h3>
-                <table class="table">
+            <div class="col-lg-8 col-sm-12 fs-5 p-5" style="text-align:center">
+                <h2 >Donations In Foreign Currency</h2>
+                <h4 class="mb-4">Bank Details of Sri Aurobindo Ashram - Delhi Branch</h4>
+                <table class="table" style="text-align:left">
                     <tbody>
                         <tr>
                             <th scope="row">email :</th>
@@ -60,12 +60,12 @@
                     <p>
                         Further credit to Beneficiary Account No. 40034542129 with E/C (whose
                         IFSC Code is: SBIN0000691)</p>
-                    <br>State Bank of India
+                    <!-- <br>State Bank of India
                     <br>New Delhi Main Branch
                     <br>FCRA Cell, 4th Floor,
                     <br>11 Sansad Marg (Parliament Street)
                     <br>New Delhi - 110 001
-                    <br>(Branch Code : 00691)
+                    <br>(Branch Code : 00691) -->
                     <br>SWIFT Code : SBININBB104
                 </div>
             </div>

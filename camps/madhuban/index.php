@@ -33,9 +33,9 @@
     <div class="row">
             <div class="col-6 offset-3 fs-5">
                 
-                <p>Madhuban is situated at a height of 5000ft above a picturesque village in the Kumaon range of the Himalayas. Madhuban is the place where the beekeeping associanion of India took birth more than 60 years ago.</p>
-                <p>The property was offered to the Ashram by a devotee in 2003 and is continuously being developed. The entire valley of Talla Ramgarh is afruitful bowl with pears, plums, peaches, apricot orchards.</p>
-                <p>Madhuban Sri Aurobindo Ashram is an extension of Sri Aurobindo Ashram Delhi Branch.</p>
+                <p>Madhuban is situated at a height of 5000 ft. above a picturesque village in the Kumaon range of the Himalayas. Madhuban is the place where the beekeeping association of India took birth more than 60 years ago.</p>
+                <p>The property was offered to the Ashram by a devotee in 2003 and is continuously being developed. The entire valley of Talla Ramgarh is a fruitful bowl with Pears, Plums, Peaches, Apricot orchards.</p>
+                <p>Madhuban, Sri Aurobindo Ashram, is an extension of Sri Aurobindo Ashram - Delhi Branch.</p>
             </div>
         </div>
     </div>

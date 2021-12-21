@@ -41,7 +41,7 @@
                     <b>Meditation:</b> Talks on healthy living, self-development, national problems and role of youth.
                 </p>
                 <p>
-                    These camps have been organized since 1977 and every year youth from various parts of the country participate in it with joy and gather knowledge and spiritual awareness.
+                    These camps have been organized since 1977 and every year youth from various parts of the Country participate in it with joy and gather knowledge and spiritual awareness.
                 </p>
             </div>
         </div>
