@@ -41,22 +41,21 @@
         </div>
     </div>
 </section>
-<section class="sa-section">
+<section class="sa-section"> 
     <div class="container justify-content-center">
         <div class="row gx-5 justify-content-center">
-            <div class="col-12 col-lg-8 col-md-6">
-                <!-- <div class="col-lg-10 col-sm-12 fs-5 p-5"> -->
+            <div class="col-12 col-lg-8 col-md-6 ">
                 <h2 style="text-align:center">FOREIGN INWARD REMITTANCE</h2>
-                <div class="card">
-                    <p> State Bank of India - New Delhi Main Branch </p>
+                <div class="card" style="text-align:center">
+                    <br> State Bank of India - New Delhi Main Branch 
                     <br>FCRA Cell, 4th Floor,
                     <br>11 Sansad Marg (Parliament Street)
                     <br>New Delhi - 110 001
                     <br>SWIFT Code : SBININBB104
                 </div>
             </div>
-            <div class="col-12 col-lg-8 col-md-6">
-                <div class="card">
+            <div class="col-12 col-lg-8 col-md-6 justify-content-center">
+                <div class="card" style="text-align:center">
                     <p>
                         Further credit to Beneficiary Account No. 40034542129 with E/C (whose
                         IFSC Code is: SBIN0000691)</p>
@@ -66,7 +65,7 @@
                     <br>11 Sansad Marg (Parliament Street)
                     <br>New Delhi - 110 001
                     <br>(Branch Code : 00691) -->
-                    <br>SWIFT Code : SBININBB104
+                    
                 </div>
             </div>
         </div>

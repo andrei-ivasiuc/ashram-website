@@ -8,7 +8,7 @@
         </a>
         <ul class="list-unstyled small text-muted">
           <li class="mb-2"><a href="call:+911126567863">+911126567863</a></li>
-          <li class="mb-2">Begumpur Road, Sarvodaya Enclave, New Delhi, Delhi 110016</li>
+          <li class="mb-2">Begumpur Road, New Delhi, Delhi - 110016</li>
         </ul>
       </div>
       <div class="col-6 col-lg-2 offset-lg-1 mb-3">

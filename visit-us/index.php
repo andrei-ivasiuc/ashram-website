@@ -207,13 +207,13 @@
                 <p>(Through the Ashram Reception)</p>
 
                 <h4>FREE YOGA CLASSES</h4>
-                <p>(Through the Ashram reception/The Mother's Integral Health Centre)</p>
+                <p>(Through the Ashram reception / The Mother's Integral Health Centre)</p>
 
                 <h4>SRI AUROBINDO BOOK DISTRIBUTION AGENCY - SABDA</h4>
                 <p>(Mon-Sat 9:30AM to 6:30PM &amp; Sun 10:00AM to 1:00PM)</p>
 
                 <h4>KNOWLEDGE (The Ashram Library)</h4>
-                <p>(Tues to Sun 10:00AM to 4:30PM Mon Closed)</p>
+                <p>(Tues to Sun 10:00AM to 4:30PM, Monday Closed)</p>
 
                 <h4>WASHING MACHINE</h4>
                 <p>(Self-Service)</p>
@@ -240,14 +240,14 @@
                         <h4>Our Bus Stop</h4>
                         <p>The Mother's International School</p>
 
-                        <h4>New Delhi Rly Station to Sri Aurobindo Ashram</h4>
+                        <h4>New-Delhi Rly Station to Sri Aurobindo Ashram</h4>
                         <ol>
                             <li>Bus No. 505<br>
                             <li>By Autorickshaw (about Rs.150 during day time)</li>
                             <li>By Taxi (about Rs.350)</li>
                         </ol>
 
-                        <h4>Old Delhi Rly Station to Sri Aurobindo Ashram</h4>
+                        <h4>Old-Delhi Rly Station to Sri Aurobindo Ashram</h4>
                         <ol>
                             <li>Bus No. 502<br>
                             <li>By Autorickshaw (about Rs.175 during Day time)</li>
@@ -262,7 +262,7 @@
                         <p>By Taxi ( about Rs.350 to 400 during Day time)</p>
 
                         <h4>Nearest Metro Station</h4>
-                        <p>Hauz Khas (Yellow Line, Magenta Line )</p>
+                        <p>Hauz Khas (Yellow Line and Magenta Line )</p>
 
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 mb-4">
