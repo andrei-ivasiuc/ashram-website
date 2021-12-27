@@ -1,26 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
 <?php require_once('../header.php') ?>
-<body>
-    <section class="header-horizontal dark" style="background-color: var(--bg-darker);">
-        <div class="text-center">
-            <br>
-            <h3>SUPPORTING AND PROMOTING EDUCATION</h3>
-            <br>
-            <img src="http://www.sriaurobindoashram.net/VT/Untitled-10.PNG" class="mb-2">
-        </div>
-        <div class="row justify-content-center">
-        <div class="col-lg-8 col-sm-12 fs-5 p-5">
-<h5>
-                        What we are attempting here is to prove to the world, through a concrete example,
+
+<section class="header-horizontal dark" style="background-color: var(--bg-darker);">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-4 offset-lg-1 d-flex flex-column justify-content-center text-center pt-5 pb-5">
+                <h6 class="text-uppercase mb-3">SUPPORTING AND PROMOTING EDUCATION</h6>
+                <h2 class="mb-4">Sponsorship</h2>
+                <p class="fs-5 mb-4">What we are attempting here is to prove to the world, through a concrete example,
                         that by some inner psychological realisation and some outer organisation a world
                         can be created where most of the causes of human misery will cease to exist.
-                    </h5>
-                    <br>
-                    <h5>The Mother</h5>
-  </div>
-</div>
-    </section>
+                </p>
+                <p>&mdash; The Mother</p>
+               
+            </div>
+            <div class="col offset-lg-1">
+                <div class="sa-img">
+                    <img src="./img/cover.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
     <section class="sa-section">
         <div class="container">
             <div class="row justify-content-center">
