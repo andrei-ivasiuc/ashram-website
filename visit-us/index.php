@@ -70,6 +70,7 @@
                 <h2 class="lg mb-4">Please maintain the sanctity of the Ashram</h2>
                 <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                        <ul>
                         <li>
                             Smoking, Gutka (Tobacco), Sex, Alcohol &amp; Drugs are strictly prohibited on the Ashram Premises. Persons under the influence of Alcohol and Drugs are also strictly prohibited on the campus.
                         </li>

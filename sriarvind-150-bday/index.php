@@ -57,20 +57,23 @@ $past_events = array_slice($past_events, 0, 4);
         <div class="text">
             <div class="inner">
                 <h3>Sri Aurobindo</h3>
-                <h5>A Freedom fighter, Poet, Philosopher, Mahayogi</h5> 
+                <h5>A Freedom-fighter, Poet, Philosopher, Mahayogi</h5> 
                 <br>
-                <q>
+                <p>
                 What Sri Aurobindo represents in the world’s history is not a teaching, not even a revelation; it is a decisive action direct from the Supreme. 
-</q>
-<p>- The Mother</p>
+</p>
+
                 </p>
                 <p>
-                At Pondicherry, Sri Aurobindo developed a spiritual practice he called Integral Yoga. The central theme of his vision was the evolution of human life into a divine life in divine body. He believed in a spiritual realisation that not only liberated but transformed human nature, enabling a divine life on earth.
-</p>
+                Sri Aurobindo has come on earth not to bring a teaching or a creed in competition with previous creeds or teachings, but to show the way to overpass the past and to open concretely the route towards an imminent and inevitable future.
+</p>                    
+                <!-- <p>At Pondicherry, Sri Aurobindo developed a spiritual practice he called Integral Yoga. The central theme of his vision was the evolution of human life into a divine life in divine body. He believed in a spiritual realisation that not only liberated but transformed human nature, enabling a divine life on earth.
+</p> -->
+<p>&mdash; The Mother</p>
             </div>
-            <div class="col ">
+            <!-- <div class="col ">
                 <a href="/read-more/read-more.php" >Read more</a>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -79,7 +82,7 @@ $past_events = array_slice($past_events, 0, 4);
 <div class="container">
 <div class="row">
                                 <div class="col text-center mb-4">
-                    <h4>Literary works of Sri Aurobindo</h4>
+                    <h4>Brief of Sri Aurobindo's Life</h4>
                 </div>
 </div>
 <div class="row gy-4  justify-content-center">
@@ -87,12 +90,12 @@ $past_events = array_slice($past_events, 0, 4);
                 <div class="col-12 col-lg-3 col-md-6">
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action active">
-    Publications
+    Early years
   </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a href="#" class="list-group-item list-group-item-action disabled">Vestibulum at eros</a>
+  <a href="#" class="list-group-item list-group-item-action">Education</a>
+  <a href="#" class="list-group-item list-group-item-action">Freedom struggle</a>
+  <a href="#" class="list-group-item list-group-item-action">Uttarpara speech</a>
+  <a href="#" class="list-group-item list-group-item-action">Tales of Prison life</a>
 </div>
                 </div>
                 <div class="col-12 col-lg-3 col-md-6">
@@ -100,21 +103,21 @@ $past_events = array_slice($past_events, 0, 4);
   <a href="#" class="list-group-item list-group-item-action active">
     Books
   </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a href="#" class="list-group-item list-group-item-action disabled">Vestibulum at eros</a>
+  <a href="#" class="list-group-item list-group-item-action">Savitri</a>
+  <a href="#" class="list-group-item list-group-item-action">The Life Divine </a>
+  <a href="#" class="list-group-item list-group-item-action">Essays on the Gita</a>
+  <a href="#" class="list-group-item list-group-item-action">Secret of the Vedas</a>
 </div>
                 </div>
                 <div class="col-12 col-lg-3 col-md-6">
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action active">
-    Photo Gallery
+   Other works
   </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a href="#" class="list-group-item list-group-item-action disabled">Vestibulum at eros</a>
+  <a href="#" class="list-group-item list-group-item-action">Arya</a>
+  <a href="#" class="list-group-item list-group-item-action">Collected poems</a>
+  <a href="#" class="list-group-item list-group-item-action">Hymn to Durga</a>
+  <a href="#" class="list-group-item list-group-item-action">Sri Aurobindo's humour</a>
 </div>
                 </div>
                 </div>
@@ -153,8 +156,8 @@ $past_events = array_slice($past_events, 0, 4);
         <div class="container">
             <div class="row">
                 <div class="col text-center mb-4">
-                    <h2>Register for Workshops</h2>
-                    <h4>conducted by Delhi Ashram</h4>
+                    <h2>Future Events / Workshops</h2>
+                    <h4>organized by Delhi Ashram</h4>
 
                 </div>
             </div>
