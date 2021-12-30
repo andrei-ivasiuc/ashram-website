@@ -1,5 +1,4 @@
-[
-    {
+[{
         "date": "12-10-2021",
         "path": "/articles/yoga/",
         "title": "Yoga",
@@ -42,4 +41,4 @@
         "img": "/articles/perseverance/cover.jpg",
         "type": "video"
     }
- ]
+]
