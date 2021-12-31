@@ -3,7 +3,6 @@
     <div class="row">
       <div class="col-lg-3 mb-3">
         <a class="d-inline-flex align-items-center mb-2 link-dark text-decoration-none" href="/" aria-label="Bootstrap">
-
           <span class="fs-5">Sri Aurobindo Ashram &mdash;<br/>Delhi Branch</span>
         </a>
         <ul class="list-unstyled small text-muted">
@@ -26,14 +25,15 @@
         <ul class="list-unstyled">
           <li class="mb-2"><a href="/camps/madhuban">Madhuban</a></li>
           <li class="mb-2"><a href="/camps/nainital">Nainital</a></li>
+          <li class="mb-2"><a href="/camps/youth">Youth Camps</a></li>
           <li class="mb-2"><a href="/camps/kechla">Kechla</a></li>
         </ul>
       </div>
       <div class="col-6 col-lg-2 mb-3">
         <h5>Related Links</h5>
         <ul class="list-unstyled">
-          <li class="mb-2"><a href="https://github.com/twbs/bootstrap/tree/v4-dev">Sri Aurobindo Ashram Pondicherry</a></li>
-          <li class="mb-2"><a href="http://auromaa.org/">Auromaa</a></li>
+          <li class="mb-2"><a href="http://www.sriaurobindoashram.net/" target="_blank">Sri Aurobindo Ashram Pondicherry</a></li>
+          <li class="mb-2"><a href="http://auromaa.org/" target="_blank">Auromaa</a></li>
           <li class="mb-2"><a href="http://incarnateword.in/" target="_blank">Incarnate Word</a></li>
         </ul>
       </div>
@@ -51,6 +51,5 @@
     </div>
   </div>
 </footer>
-
 </body>
 </html>

@@ -1,0 +1,49 @@
+[{
+        "date": "12-10-2021",
+        "yymm": "202103",
+        "serial-no": "1",
+        "path": "/articles/yoga/",
+        "title": "Yoga has to Be lived and not learnt:",
+        "heading": "Random Reflections",
+        "author": "Monica Chand",
+        "source": "The Call Beyond | 15 March 2021",
+        "description": "The spiritual aspect of yoga can help yogis develop integration of the inner being as well as oneness with the Supreme Consciousness.",
+        "img": "./yoga.jpg",
+        "type": "article",
+        "tags": ["Call Beyond", "Yoga"]
+    },
+    {
+        "date": "19-09-2021",
+        "path": "/articles/spiritual/",
+        "title": "Spirituality",
+        "description": "Spirituality involves the recognition of a feeling or sense or belief that there is something greater than myself,",
+        "img": "https://auromaa.org/wp-content/uploads/2021/11/TE-360-Relevance-of-Arjuna-in-the-Battlefield-of-Life-352x198.jpg",
+        "type": "video"
+    },
+    {
+        "date": "20-09-2021",
+        "path": "/articles/courage/",
+        "title": "Courage",
+        "description": "The state or quality of mind or spirit that enables one to face danger, fear, or vicissitudes with self-possession, confidence, and resolution; bravery.",
+        "img": "/articles/courage/cover.jpg",
+        "type": "article"
+
+    },
+    {
+        "date": "28-09-2021",
+        "path": "/articles/spirituality/",
+        "title": "Spirituality",
+        "description": "Spirituality involves the recognition of a feeling or sense or belief that there is something greater than myself,",
+        "img": "/articles/spirituality/cover.jpg",
+        "type": "article"
+
+    },
+    {
+        "date": "24-09-2021",
+        "path": "/articles/perseverance/",
+        "title": "Perseverance",
+        "description": "Steady persistence in adhering to a course of action, a belief, or a purpose; steadfastness.",
+        "img": "/articles/perseverance/cover.jpg",
+        "type": "video"
+    }
+]
