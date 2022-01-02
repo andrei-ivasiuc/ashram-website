@@ -12,7 +12,7 @@ $topic=$uri_segments[2];
 ?>
 
 <?php
-echo substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1); 
+//echo substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1); 
 //$_SERVER["PHP_SELF"];
 if (!file_exists("./index.json")) {
     return;
