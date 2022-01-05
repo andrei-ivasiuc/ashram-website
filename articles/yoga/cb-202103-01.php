@@ -3,12 +3,12 @@
 <?php require_once('../../header.php') ?>
 
 <body>
-    <section class="header-horizontal dark" style="background-color: var(--bg-darker);">
+    <!-- <section class="header-horizontal dark" style="background-color: var(--bg-darker);">
         <div class="text-center mb-4">
             <h2>Yoga</h2>
             <img src="./yoga.jpg">
         </div>
-    </section>
+    </section> -->
     <section class="event-text">
         <div class="container">
             <div class="row justify-content-center">
@@ -17,7 +17,7 @@
                     <h1>Random Reflections</h1>
                     <h3>Monica Chand</h3>
                     <h6>The Call Beyond | 15 March 2021 </h6>
-                    <br>
+                    <hr>
                     <p>
                         Yoga refers to the movement of the individual from an
                         ordinary state of consciousness driven by personal desires
@@ -87,6 +87,13 @@
                         Does this mean we should not seek or try to learn anything
                         mentally?
                     </p>
+<p>                    Here we might need to look at the individual nature of a  person. Some people must know and understand something clearly.  Some  people  have  faith  and  devotion,  and  don’t care for mental knowledge. Yet  others  believe  in  working,  and through  work,  finding  answers.  Hence  it  is  not  wrong to try to learn yoga, to seek to know what is implies, its methods,  its  various  turns,  paths,  its  powers,   the   peace and joy it can bring. But until we translate what we know mentally into action  and  everyday  living,  it  stays  at  the level of  the  mind  and  doesn’t  take  us  closer  to  the  object of  our  learning  –   the  Divine.  Unless  we   make  the  voice   of  the  psychic  the  central  unifying  principle  of   our   life and follow its dictates,  we  are  still  not  practicing  yoga.  When the knowledge we gain mentally  is  also  put  into practice by  making  the  right  choices  every  minute  of  our life and following that choice, then we can say that we are practicing yoga.  Hence,  to  progress  on  the  spiritual  path, we must make yoga not just a mental seeking but the most important pursuit in our life where every thought, every  feeling,  every  action  must   be   offered  to   the   divine.  That is why, yoga is not simply something to be learnt, it is something to be lived.
+</p>
+<hr>
+<h6 >
+This essay was submitted by Monica Chand as part of the requirements for the Course on Teaching Yoga conducted by Sri Aurobindo Ashram – Delhi Branch in 2019
+
+</h6>
 
                 </div>
             </div>

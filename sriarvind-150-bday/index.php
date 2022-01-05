@@ -77,28 +77,32 @@ $past_events = array_slice($past_events, 0, 4);
         </div>
     </div>
 </section>
+<section class="header-horizontal dark">
+<div class="row gy-4  justify-content-center">
+
+<div class="col-md-6">
+<div class="alert alert-warning" role="alert">
+  <h4 class="alert-heading" style="text-align:center">More on Sri Aurobindo</h4>
+  <p>Read the following links to know about the life and teachings of Sri Aurobindo</p>
+  <hr>
+  <p class="mb-0"><a href="http://www.sriaurobindoashram.net/" class="alert-link" target="_blank">Sri Aurobindo Ashram, Pondicherry </a>
+  <p class="mb-0"><a href="http://auromaa.org/" class="alert-link" target="_blank">Auromaa</a></p>
+  <p class="mb-0"><a href="http://incarnateword.in/" class="alert-link" target="_blank">Incarnate Word</a></p>  
+</p>
+</div>
+</div>
+</div>
+</section>
 
 <section class="header-horizontal dark">
 <div class="container">
 <div class="row">
                                 <div class="col text-center mb-4">
-                    <h4>Brief of Sri Aurobindo's Life</h4>
+                    <h4>Literary works</h4>
                 </div>
 </div>
 <div class="row gy-4  justify-content-center">
-
-                <div class="col-12 col-lg-3 col-md-6">
-<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action active">
-    Early years
-  </a>
-  <a href="#" class="list-group-item list-group-item-action">Education</a>
-  <a href="#" class="list-group-item list-group-item-action">Freedom struggle</a>
-  <a href="#" class="list-group-item list-group-item-action">Uttarpara speech</a>
-  <a href="#" class="list-group-item list-group-item-action">Tales of Prison life</a>
-</div>
-                </div>
-                <div class="col-12 col-lg-3 col-md-6">
+<div class="col-12 col-lg-3 col-md-6">
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action active">
     Books
@@ -107,6 +111,18 @@ $past_events = array_slice($past_events, 0, 4);
   <a href="#" class="list-group-item list-group-item-action">The Life Divine </a>
   <a href="#" class="list-group-item list-group-item-action">Essays on the Gita</a>
   <a href="#" class="list-group-item list-group-item-action">Secret of the Vedas</a>
+</div>
+                </div>
+
+                <div class="col-12 col-lg-3 col-md-6">
+<div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action active">
+   Magazines
+  </a>
+  <a href="#" class="list-group-item list-group-item-action">xxxxxx</a>
+  <a href="#" class="list-group-item list-group-item-action">yyyyy </a>
+  <a href="#" class="list-group-item list-group-item-action">uuuuuu</a>
+  <a href="#" class="list-group-item list-group-item-action">zzzzz</a>
 </div>
                 </div>
                 <div class="col-12 col-lg-3 col-md-6">
@@ -122,7 +138,6 @@ $past_events = array_slice($past_events, 0, 4);
                 </div>
                 </div>
                 </section>
-
 
 <?php if (count($future_events) > 0) : ?>
     <section id="future-events" class="home-section" style="background-color: var(--bg-darker);">
