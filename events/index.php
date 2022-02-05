@@ -14,7 +14,7 @@ $events = json_decode($str, true);
 
 // Sort events DESC
 uasort($events, function ($event1, $event2) {
-    return strtotime($event2["date"]) - strtotime($event1["date"]);
+    return strtotime($event1["date"]) - strtotime($event2["date"]);
 });
 
 $future_events = [];
@@ -31,7 +31,7 @@ foreach ($events as $i => $event){
     }
 }
 
-$future_events = array_slice($future_events, 0, 10);
+$future_events = array_slice($future_events, 0, 20);
 $past_events = array_slice($past_events, 0, 4);
 ?>
 
@@ -40,7 +40,7 @@ $past_events = array_slice($past_events, 0, 4);
         <div class="container">
             <div class="row">
                 <div class="col text-center mb-4">
-                    <h2>Happenning Soon</h2>
+                    <h2>Happening Soon</h2>
                 </div>
             </div>
             <div class="row gy-4" style="justify-content: center;">

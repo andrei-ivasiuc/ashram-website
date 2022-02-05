@@ -26,7 +26,7 @@
           <li class="mb-2"><a href="/camps/madhuban">Madhuban</a></li>
           <li class="mb-2"><a href="/camps/nainital">Nainital</a></li>
           <li class="mb-2"><a href="/camps/youth">Youth Camps</a></li>
-          <li class="mb-2"><a href="/camps/kechla">Kechla</a></li>
+          <li class="mb-2"><a href="http://www.auromira.in/" target="_blank">Kechla</a></li>
         </ul>
       </div>
       <div class="col-6 col-lg-2 mb-3">

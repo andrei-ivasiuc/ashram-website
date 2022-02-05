@@ -10,14 +10,14 @@
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/lib/fancybox/fancybox.css">
 
-        <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/main.css">
     <script src="/lib/jquery-3.6.0.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/lib/fancybox/fancybox.umd.js"></script>
 
     <script src="/js/main.js"></script>
-    
-    <title>Document</title>
+
+    <title>Sri Aurobindo Ashram - Delhi Branch Trust</title>
 
 </head>
 
@@ -59,16 +59,16 @@
                                 <ul class="submenu dropdown-menu" aria-labelledby="socialMenu">
                                     <li><a class="dropdown-item" href="/social-initiative/social-projects">Social Projects</a></li>
                                     <li><a class="dropdown-item" href="/social-initiative/current-projects/">Current Projects</a></li>
-                                    <li><a class="dropdown-item" href="/sponsorship-schemes/">Sponsorship Schemes</a></li>                                    
+                                    <li><a class="dropdown-item" href="/sponsorship-schemes/">Sponsorship Schemes</a></li>
                                 </ul>
                             </li>
 
                             <li class="dropend"><a class="dropdown-item dropdown-toggle" href="#">Annual Report</a>
                                 <ul class="submenu dropdown-menu">
-                                    <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202021.pdf">Report 2020-21</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202019-20.pdf">Report 2019-20</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202018-19.pdf">Report 2018-19</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="http://www.sriaurobindoashram.net/All_PDF/Annual%20Report%202017-2018%20final%20soft%20copy%20small.pdf">Report 2017-18</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/ashram/annual-reports/Annual Report 2021.pdf">Report 2020-21</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/ashram/annual-reports/Annual Report 2019-20.pdf">Report 2019-20</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/ashram/annual-reports/Annual Report 2018-19.pdf">Report 2018-19</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/ashram/annual-reports/Annual Report 2017-2018 final soft copy small.pdf">Report 2017-18</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -83,7 +83,7 @@
                             <li class="dropend"><a class="dropdown-item dropdown-toggle" href="/publications">Online Publications</a>
                                 <ul class="submenu dropdown-menu">
                                     <li><a class="dropdown-item" target="_blank" href="/publications/call-beyond.php">The Call Beyond</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="/publications/karmadhara.php">श्री अरविन्द कर्मधारा</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="/publications/karamdhara.php">श्री अरविन्द कर्मधारा</a></li>
                                     <li><a class="dropdown-item" target="_blank" href="/publications/realization.php">Realization Newsletter</a></li>
                                 </ul>
                             </li>
@@ -125,7 +125,7 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="/visit-us/">Visit Us</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                            Donations
                         </a>
@@ -136,8 +136,12 @@
                     </li>  
                     <li class="nav-item">
                         <a class="nav-link active" href="/sriarvind-150-bday/">150 Bday</a>
-                    </li>                  
+                    </li>                   -->
                 </ul>
             </div>
         </div>
     </nav>
+
+</body>
+
+</html>

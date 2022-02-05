@@ -5,12 +5,17 @@
     <div class="container pt-5 text-center">
         <h5>February 12, 2022</h5>
         <h1>Delhi Ashram Foundation Day </h1>
+
+
+        <p><a href="../ashram-foundation/divine-battle.php">How the Ashram came into ...</a>
+
         <div class="sa-img mt-5">
             <img src="./img/6.jpg" ;>
         </div>
 
     </div>
 </section>
+
 
 <?php require_once('../../footer.php') ?>
 <!-- 

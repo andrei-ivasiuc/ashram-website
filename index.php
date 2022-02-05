@@ -1,24 +1,12 @@
 <?php require_once('header.php') ?>
-
+<?php require_once('padma-index.php') ?>
 
 <!-- VIDEO BACKGROUND -->
 <div class="fullscreen-bg">
     <video loop muted autoplay class="fullscreen-bg__video">
-        <source src="/video/ashram-bg.mp4?x" type="video/mp4">
+        <source src="/video/ashram-bg-720.mp4" type="video/mp4">
     </video>
 </div>
-<!-- 
-<section class="cta">
-    <ul>
-        <li>
-            <a href="/visit-us" class="btn btn-lg btn-outline-primary">Visit Us</a>
-        </li>
-        <li>
-            <a href="/volunteering" class="btn btn-lg btn-outline-primary">Volunteer</a>
-        </li>
-    </ul>
-</section> -->
-
 
 <!-- PAST EVENTS -->
 <?php include_once("events.php") ?>
@@ -28,7 +16,6 @@
 
 <!--ONLINE PUBLICATIONS-->
 <?php include_once("publications.html") ?>
-
 
 <section class="block image-overlap left my-5">
     <div class="container">

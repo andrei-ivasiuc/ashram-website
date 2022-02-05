@@ -89,7 +89,6 @@
     /* Legacy iOS */
 }
 
-
 /* playfair-display-regular - latin */
 @font-face {
     font-family: 'Playfair Display';
@@ -103,6 +102,7 @@
          url('/fonts/playfair-display-v25-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/fonts/playfair-display-v25-latin-regular.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
   }
+
   /* playfair-display-800 - latin */
   @font-face {
     font-family: 'Playfair Display';
@@ -116,6 +116,7 @@
          url('/fonts/playfair-display-v25-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/fonts/playfair-display-v25-latin-800.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
   }
+
   /* playfair-display-900 - latin */
   @font-face {
     font-family: 'Playfair Display';
@@ -215,7 +216,7 @@ h2.lg {
 
 .fullscreen-bg {
     display: flex;
-    height: 600px;
+    height: 75vh;
 }
 
 .fullscreen-bg video {
@@ -291,7 +292,7 @@ section.cta ul li {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);
 }
 
-.home-section .card-body h4 a {
+.home-section .card-body h4, .home-section .card-body h4 a {
     color: var(--dark);
     text-decoration: none;
     font-weight: 600;
@@ -396,6 +397,14 @@ section.cta ul li {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(7, 1fr);
+}
+
+@media only screen
+and (min-width : 320px)
+and (max-width : 480px) {
+    .block.image-overlap .container {
+        display: block;
+    }
 }
 
 .block.image-overlap .container .img {

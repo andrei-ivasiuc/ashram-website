@@ -1,10 +1,11 @@
-<?php 
+<?php
 
 require_once('header.php');
 
 if (!file_exists("events/index.json")) {
     return;
 }
+
 
 // Read json file with events
 $str = file_get_contents("events/index.json");
@@ -22,7 +23,7 @@ $past_events = [];
 
 $today = time();
 
-foreach ($events as $i => $event){
+foreach ($events as $i => $event) {
     $event_dt = strtotime($event["date"]);
     if ($today < $event_dt) {
         array_push($future_events, $event);
@@ -34,6 +35,11 @@ foreach ($events as $i => $event){
 $future_events = array_slice($future_events, 0, 10);
 $past_events = array_slice($past_events, 0, 4);
 ?>
+<?php if (count($past_events) == 0) : ?>
+    <div class="card mt-5" style="background-color: var(--bg-blue);">
+            <h4 class="sm" style="text-align:center">This Page will be uplaoded as and when events happen this Year in Delhi Ashram</h4>
+    </div>
+<?php endif; ?>
 
 <?php if (count($past_events) > 0) : ?>
     <section id="events" class="home-section" style="background-color: #eee;">
@@ -59,6 +65,7 @@ $past_events = array_slice($past_events, 0, 4);
             </div>
         </div>
     </section>
+
 <?php endif; ?>
 
 
@@ -75,4 +82,4 @@ One of these is "L" which returns 1 if it’s a leap year, and 0 if it is not.
         } ?>
  -->
 
- <?php require_once('../../footer.php') ?>
+<?php require_once('footer.php') ?>;

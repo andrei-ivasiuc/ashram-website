@@ -47,11 +47,17 @@ $latest_events = array_slice($future_events, 0, 4);
             </div>
             <div class="row mb-5" style="justify-content: center;">
                 <?php foreach ($latest_events as $i => $event) : ?>
-                    <div class="col-12 col-lg-4 col-md-6">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="card <?php echo $event["type"]?>">
                             <a href="<?php echo $event["path"] ?>"><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
                             <div class="card-body">
-                                <h4><a href="<?php echo $event["path"] ?>"><?php echo $event["title"] ?></a></h4>
+                                <?php if(strlen($event["path"]) > 0):?>
+                                    <h4><a href="<?php echo $event["path"] ?>"><?php echo $event["title"] ?></a></h4>
+                                <?php else:?>
+                                    <h4><?php echo $event["title"] ?></h4>
+                                <?php endif;?>
+
+                                
                                 <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
                             </div>
                         </div>
@@ -61,7 +67,8 @@ $latest_events = array_slice($future_events, 0, 4);
             <div class="row">
                 <div class="col text-center">
                     <a href="/events" class="btn btn-lg btn-primary">See All Events</a>
-                    <a href="/events#past-events" class="btn btn-lg btn-outline-secondary">Past Events</a>
+                    <!-- <a href="/events#past-events" class="btn btn-lg btn-outline-secondary">Past Events</a> -->
+                    <!-- <a href="events-past.php" class="btn btn-lg btn-outline-secondary">Past Events</a> -->
                 </div>
             </div>
         </div>
