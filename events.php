@@ -23,9 +23,25 @@ $past_events = [];
 <?php foreach ($events as $i => $event) : ?>
     <?php
     $event_dt = strtotime($event["date"]);
-    if ($today < $event_dt) {
+
+    // Get event date date object
+    $date_event = date_create(date('d-m-Y', $event_dt));
+    // Get today date object
+    $date_today = date_create(date('d-m-Y', time()));
+    // Get date difference object
+    $diff = date_diff($date_today, $date_event);
+
+    // Difference in days
+    $diff_days = $diff->days;
+
+    // If the date is from the past, multiply by -1 so it is negative
+    if($diff->invert){
+        $diff_days = $diff_days * -1;
+    }
+
+    if ($diff_days >= 0) {
         array_push($future_events, $event);
-        //echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
+       // echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
     } else {
         array_push($past_events, $event);
         // echo 'Past ' . $event["date"] . "Today : " . $today . "<br>";
@@ -34,7 +50,9 @@ $past_events = [];
 <?php endforeach;
 // Take only 4 latest events
 $latest_events = array_slice($future_events, 0, 4);
-//var_dump($future_events) 
+// var_dump($future_events) ;
+// echo "<br>". "laetst" ;
+// var_dump($latest_events);
 ?>
 
 <?php if (count($latest_events) > 0) : ?>
@@ -68,7 +86,7 @@ $latest_events = array_slice($future_events, 0, 4);
                 <div class="col text-center">
                     <a href="/events" class="btn btn-lg btn-primary">See All Events</a>
                     <!-- <a href="/events#past-events" class="btn btn-lg btn-outline-secondary">Past Events</a> -->
-                    <!-- <a href="events-past.php" class="btn btn-lg btn-outline-secondary">Past Events</a> -->
+                    <a href="events-past.php" class="btn btn-lg btn-outline-secondary">Recent / Past Events</a>
                 </div>
             </div>
         </div>
