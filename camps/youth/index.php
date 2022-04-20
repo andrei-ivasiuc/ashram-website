@@ -9,6 +9,14 @@
                 <p class="fs-5 mb-4">These camps have been organized since 1977 and every year youth from various parts of the country participate in it with joy and gather knowledge and spiritual awareness.</p>
                 <p class="d-flex justify-content-center" style="gap: 20px;">
                     <a href="/volunteering#apply" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i>&nbsp;Volunteer</a>
+                    <a href="/camps/Camp Data for Website/2. Youth Camp (2022) at Van Niwas.pdf" class="btn btn-lg btn-primary" target="_blank"><i class="fas fa-edit"></i>Youth Camp</a>
+                </p>
+                <p>
+                    <a href="/camps/Camp Data for Website/How_To-Reach_Nainital_2021-22.pdf" class="btn btn-lg btn-primary" target="_blank">How to Reach</a>
+                    <a href="/camps/Camp Data for Website/Rules and Regulation _2021-22 .pdf" class="btn btn-lg btn-primary" target="_blank">Rules and Regulations</a>
+                </p>
+                <p>
+                    Camp organizer, Delhi Ashram : Ms. Jyoti Patankar, Cell# 8920 130 939, aurocamps@aurobindoonline.in, Mon-Fri : 8.30 am to 5.30 pm
                 </p>
             </div>
             <div class="col offset-lg-1">
@@ -16,6 +24,7 @@
                     <img src="./img/youth.jpg" alt="">
                 </div>
             </div>
+
         </div>
     </div>
 </section>

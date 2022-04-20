@@ -1,0 +1,35 @@
+[{
+    "date": "15-07-2020",
+    "path": "/articles/",
+    "file": "cb-202007-01.php",
+    "title": "Aspiration, Yes; Obsession, No",
+    "heading": "",
+    "author": "Editor",
+    "source": "The Call Beyond",
+    "img": "./img/prog-1.jpg",
+    "type": "article"
+},
+{
+    "date": "15-07-2020",
+    "path": "/articles/",
+    "file": "cb-202007-02.php",
+    "title": "Is progress a myth?",
+    "heading": "",
+    "author": "Editorial",
+    "source": "The Call Beyond",
+    "img": "./img/prog-3.jpg",
+    "type": "article"
+},
+{
+    "date": "15-07-2020",
+    "path": "/articles/",
+    "file": "cb-202007-03.php",
+    "title": "Why care when she is there",
+    "heading": "",
+    "author": "Editorial",
+    "source": "The Call Beyond",
+    "img": "./img/prog-2.jpg",
+    "type": "article"
+}
+
+]

@@ -9,7 +9,7 @@
                 <p class="fs-5 mb-4">Youngsters (between 18 and 25 years) are encouraged to apply as vocational trainees. The Ashram supports those in need by providing them trainings and economic assistance through stipend, food and lodging. Trainees should be keen learners and willing to work hard. We prefer students from remote parts of India where the need for such intervention is high.</p>
                 <p class="d-flex justify-content-center" style="gap: 20px;">
                     <a href="#apply" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i>&nbsp;Apply</a>
-                    <a href="./flyer/volunteerprogram.pdf" target="_blank" class="btn btn-lg btn-outline-secondary"><i class="fas fa-file-download"></i>&nbsp;Download Brochure</a>
+                    <!-- <a href="./flyer/volunteerprogram.pdf" target="_blank" class="btn btn-lg btn-outline-secondary"><i class="fas fa-file-download"></i>&nbsp;Download Brochure</a> -->
                 </p>
             </div>
             <div class="col offset-lg-1">
@@ -397,13 +397,10 @@
                 </p>
                 <div class="row">
                 <div class="col">
-                    <a href="#" class="btn btn-primary btn-sm ">Flyer of Vocational Training</a>
+                    <a href="Vocational Training Leaflet & Application Form.pdf" target="_blank" class="btn btn-primary btn-sm ">Flyer and Application Form for Vocational Training</a>
                 </div>
                 <div class="col">
-                    <a href="#" class="btn btn-primary btn-sm">Health check-up Form</a>
-                </div>
-                <div class="col">
-                    <a href="#" class="btn btn-primary btn-sm">Application Form for Vocational Training</a>
+                    <a href="HEALTH CHECK UP FORM.docx" target="_blank" class="btn btn-primary btn-sm">Health check-up Form</a>
                 </div>
                 </div>
             </div>

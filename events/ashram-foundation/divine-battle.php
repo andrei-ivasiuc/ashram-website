@@ -1,136 +1,108 @@
-<?php require_once('../../header.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/gallery.php') ?>
 
-<section style="background-color:  var(--bg-blue); padding: 10px;">
+<!-- <section class="header-horizontal dark p-3" style="background-color: var(--bg-darker);"> -->
+<!-- <section class="p-3" style="background-color: var(--bg-darker);"> -->
+<section class="sa-section" style="background-color: var(--bg-blue);">
     <div class="container">
-        <h2 class="lg mt-4 mb-4">How the Delhi Ashram came into....</h2>
-        <div class="text mb-5">
-            <h4>1938 - 1940</h4>
-            <h3>Ashram land purchase</h3>
-            <div class="row">
-                <div class="col">
-                    In the Divine pattern and Plan the Gods were charmed by the place as it was destined to play a revolutionary role. But, due to the ruins of kings and their kingdoms, dilapidated fortresses, mosques and temples, the evil forces took a fancy to this waste spot and thus took possession of it.
-                    This then gave rise to the conflict and the consequent battle between the Gods and the asuric forces.
-                </div>
-                <div class="col">
-                    It was in the midst of this struggle that between 1938 and 1940 this land was purchased. Three times the land was lost through legal or other action. When the building was completed amidst several hurdles, efforts were made to use it for social, political and eventually for philonthropic activities, hospital, a nursing home, an agricultural farm and even as barracks for American soldiers, but all in vain.
-                </div>
-                <div class="col">
-                    A 200 feet deep tube well was sunk and then abandoned because there was no trace of good and sufficient water. No human being or flowers / trees could survive in this place and in a span of few years, a herd of about eighteen cows and calves was lost through dacoity. The place lay a total waste for many years.
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section style="background-color:  var(--bg-tan); padding: 10px;">
-    <div class="container">
-        <div class="text mb-5">
-            <h4>1955</h4>
-            <h3>The coming of a Divine messenger</h3>
-            <div class="row">
-                <div class="col">
-                    Shri Surendra Nath Jauhar had an acquaintance in jail during the 1942 upheaval who suddenly appeared at his residence in 1955. The strangest thing about this man is that the police had completely failed to establish his identity-name, parentage, address etc.-and had been unable to charge him with any specific offence. To all appearances he was an eccentric, and when he first met Shri Jauhar, he had told him that he was a divine messenger and had come on a specific mission to clear the said building, by driving away its asuric occupants.
-                </div>
-                <div class="col">
-                    <p>
-                        On his visit early morning, he said the strength of the evil forces was much more than he had anticipated and he was exhausted, clothes torn and his long hair and beard completely ruffled.
-                    </p>
-                    <p>
-                        After his visit again the next day morning, his plight was simply pitiable, he looked so beaten and broken, but there was a dazzling gleam of victory radiating from his eyes. In a voice charged with emotion he spoke, "They put up very severe opposition and fought a last ditch battle. But their hour is over. They have been thrown out, completely and for good, from their haunt, and now the place is clear and open for receiving the descent."
-                    </p>
-                </div>
-                <div class="col">
-                    <div class="img"> <img src="./img/auro-idol.jpg" ;></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section style="background-color:  var(--bg-blue); padding: 10px;">
-    <div class="container">
-        <div class="text mb-5">
-            <h4>Mother's inteview</h4>
-            <h3>Inauguration of Delhi Branch of Sri Aurobindo Ashram : 12th Feb 1956</h3>
-            <div class="row">
-                <div class="col">
-                    <p>
-                        Shri Surendra Nath Jauhar drew elaborate plans to make the place a recreation centre with playgrounds, school hostel and so on, and wrote to the Mother, including a monument for Sri Aurobindo. However, no reply was received from the Mother on any of these points.
-                    </p>
-                    <p>
-                        On the historic day of the interview with the Mother, Shri Surendra Nath Jauhar said that he had never received Her advice or guidance on any of the points. "
-                    </p>
-                </div>
-                <div class="col">
-                    <p>
-                        The Mother said simply and suddenly, "But why? This place will house the Sri Aurobindo Ashram, Delhi Branch, and there certainly will be a Shrine for which I have been keeping Sri Aurobindo's precious relics.
-                    </p>
-                    <p>
-                        On the very day of Shri Surendra Nath Jauhar's return to Delhi he received a postal package from Pondicherry, containing a plan of the Shrine of Sri Aurobindo, complete in every detail, direction and design!
-                    </p>
-                </div>
-                <div class="col">
-                    <p>On his next visit to the Ashram, Shri Surendra Nath Jauhar requested the Mother to fix up the date for the inauguration of the Delhi Branch of Sri Aurobindo Ashram. She at once fixed up 12th February 1956.</p>
-                    <p>He said, "Mother, why not 21st February, 1956 which is an auspicious day-your birthday?".</p>
-                    <p>Mother said "12 and 21 are one and the same thing. There is no difference." She further said, "Twelve persons can sit in meditation on that day. It is an old belief that if twelve persons join in solemn prayer-the prayer is granted." Thus the Delhi Branch of Sri Aurobindo Ashram was established and solemnised.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section style="background-color:  var(--bg-tan); padding: 10px;">
-    <div class="container">
-        <div class="text mb-5">
-            <h4>Marble from Rajasthan</h4>
-            <h3>Sri Aurobindo's Shrine</h3>
-            <div class="row">
-                <div class="col">
-                    <p>
-                        Though the detailed layout and plan was received from the Mother Shri Surendra Nath Jauhar neither had knowledge or experience to move forward with the assignment.
-                    </p>
-                    <p>
-                        Shri Pooran Chand, a friend of Shri Surendra Nath Jauhar, who was a Superintending Engineer in C.P.W.D was responsible for construction of all the marble monuments in Delhi. In appreciation of his loyalty and devotion to service he was honoured with the award of Rai Sahib by the British Government.
-                    </p>
-                    <p>
-                        He assured that he would execute the construction of the Shrine from the beginning to the end and took away all the plans and arranged for proper people from Makrana near Jaipur, Rajasthan.
-                    </p>
-                </div>
-                <div class="col">
-                    <p>
-                        The samples of different grades and shades of marble were forwarded to the Mother for approval.
-                        The cube in the centre is heavy-about 27 maunds (approx. 982 kgs.) in weight.
-                    </p>
-                    <p>
-                        As decided by the Mother, the relics were placed under the cube.
-                    </p>
-                </div>
-                <div class="col">
-                    <div class="img"> <img src="./img/shrine.jpg" ;></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section style="background-color:  var(--bg-blue); padding: 10px;">
-    <div class="container">
-        <div class="text mb-5">
-            <h4>MCD and NDMC</h4>
-            <h3>Sri Aurobindo Marg</h3>
-            <div class="row">
-                <div class="col">
-                    <p>
-                        Shri Surendra Nath Jauhar put up an application to the authorities of the Municipal Corporation of Delhi (MCD) for naming the highway from the Safdarjung Monument leading to Qutub Minar as Sri Aurobindo Marg.
-                    </p>
-                    <p>
-                        After a lot of follow-up, the MCD named the road from Yusuf Sarai to Qutub Minar as Sri Aurobindo Marg as it had its jurisdiction from Yusuf Sarai only.
-                    </p>
-                </div>
+        <div class="row justify-content-center">
+            <h5 class="lg text-center ">February 12, 2022</h5>
+            <h2 class="text-center">The Divine Battle</h2>
+            <h4 class="text-center"><b><i>Delhi Ashram Inaugurated on 12<sup>th</sup> Feb 1956</i></b></h4>
 
-                <div class="col">
-                    <p>
-                        As the main part of the road from Safdarjung to Yusuf Sarai falls under the jurisdiction of New Delhi Municipal Committee (NDMC), Shri Surendranath Jauhar pursued the matter with NDMC to name the entire road from Safdarjung as Sri Aurobindo Marg and order was passed to that effect by NDMC.
-                    </p>
+            <div class="justify-content-center col-md-5">
+                <img src="./img/old-ashram-pics/D_Relics (2).jpg" class="img-fluid p-5" alt="">
+            </div>
+            <!-- <div class="justify-content-center  col-md-5">
+                <img src="./img/cover.jpg" class="img-fluid p-5" alt="">
+                </div> -->
+            <div class="row justify-content-center ">
+                <div class="col-md-8">
+                    <?php gallery("./img/old-ashram-pics", 7); ?>
                 </div>
             </div>
+            <!-- <section class="event-gallery"> -->
+            <!-- <div class="container"> -->
+            <!-- <div class="row justify-content-center"> -->
+            <!-- <div class="col-lg-12 col-sm-12 fs-5 p-5 text-center"> -->
+            <!-- <h2 class="pb-5">Gallery</h2> -->
+            <!-- <?php gallery("./img/old-ashram-pics", 6); ?> -->
+            <!-- </div> -->
+            <!-- </div> -->
+            <!-- </div> -->
+            <!-- </section> -->
+        </div>
+        <div class="row justify-content-center">
+            <!-- <h2 class=" text-center pb-3">An island of Tranquility</h2> -->
+            <div class="pt-5 col-8 embed-responsive embed-responsive-1by1">
+                <iframe width="100%" height="350" src="https://www.youtube.com/embed/QlILe5Fto9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="row fs-5  justify-content-center">
+            <div class="col-md-8 mt-4">
+                <h4 class="text-center" style="font-size: 19px"><b> Unpredictable challenges and mysterious workings of Grace </b> </h4>
+                <h4 class="text-center"><b>by Shri Surendranath Jauhar, the founder of Delhi Ashram</b></h4>
+                <!-- <h4 class="text-center"><b><i>(Inaugurated on 12th Feb 1956)</i></b></h4> -->
+                </p>
+                <p>
+                    Detailed plans and instructions for the construction of sri Aurobindo’s shrine were certainly received from the Mother. But it baffled me and made me most uneasy. I never had any knowledge or experience of such a delicate assignment.
+                </p>
+                <p>
+                    Next morning when I was just washing and wiping the Meditation Hall which was my Sunday routine, a gentleman entered with devotion and a smiling face. It was a surprise. I embraced him and made him sit. He had come for the first time to the ashram. I asked him as to how he had come here. He spontaneously said that he had been longing to see me in my Ashram life, and just sat beside me in meditation with closed eyes.
+                </p>
+                <p>
+                    He was a friend working in the Central Public Works Department. I always loved and respected him on account of his devotion to work, integrity and nobility. His name was Poonam Chand.
+                </p>
+                <p>
+                    He continued sitting in the Meditation Hall with his body erect in meditation for over two hours. This surprised me further. When he came out of the meditation I asked him where he had learnt this art of meditation, as I could never imagine or conceive that a Government servant especially in the C. P. W. D. could be devoted to Tapasya, Mediation and Samadhi. He told me that he was doing meditation for several hours everyday in his house and he was a very early riser. I was so happy to know all this.
+                </p>
+                <p>
+                    Now I told him that he had been sent by the Divine to solve my problem and showed him the plans and the drawings of the shrine which has been received from the Mother. He at once said that it was his job as he was responsible for executing all the marble monuments in Delhi. He assured me that he would take the responsibility and would execute the construction of the shrine from the beginning to the end. What a magic and miracle. </p>
+
+                <p>
+                    He took away all the plans and straight off called the proper people from Makana near Jaipur, Rajasthan, who were doing this kind of marble monument work and who were in his confidence and were completely under his influence. He gave them complete instructions and directions and settled all the charges, terms and time of delivery etc.
+                </p>
+                <p>
+                    The arrangement was so perfect that within three months all the fabricated pieces for the complete shrine were received in the trucks along with the technicians to assemble the shrine on the spot. The shrine was assembled within a month under the direction and supervision of Rai Sahib Pooran Chand.
+                </p>
+                <p>
+                    The cube in the centre was very heavy. This was lifted by a crane with the help of the expert and skilled labourers, who were arranged from the Supreme Court building under construction.
+                </p>
+                <p>
+                    When the shrine was completely ready, just by chance I noticed that the symbols of Sri Aurobindo on all the four sides of the cube were wrongly carved. It shocked me seriously. Now the cube could not be lifted and the symbols could not be re-carved because the cube had gone two feet deep in the ground and strongly fixed in cement concrete. I felt that all the efforts had gone waste as the cube had in any case to be changed which was a difficult and terrible job. I could not reconcile myself as to how it could be done.
+
+                </p>
+                <p>
+                    Next morning I explained this to Rai Sahib Pooran Chand and he comforted me and assured that the cube will be broken into pieces and dug out and the new cube with correct and authentic symbols will be got carved at Makrana again.
+
+                </p>
+                <p>
+                    The distressed condition of my mind and the cry of my heart reached the Mother. Just at that time when we were discussing all this on the spot in animation, quite miraculously a lengthy telegram was received from the Mother saying that the Relics will be placed under the cube and not over the cube under the Lotus as was previously directed. Now all the anxiety and unhappiness was dissolved as the cube had in any case to be broken and taken out to place the Relics under the same.
+                </p>
+                <p>
+                    The order and instructions for the new cube were given which was made again at Makrana with the correct symbols. The cube was received quite promptly and was placed in the Shrine with the Relics underneath.
+                </p>
+                <p>
+                    With this, the second phase of the Divine Battle was over. But it looks that this battle is eternal till the consciousness undergoes a change.
+
+                </p>
+
+            </div>
+            <!-- <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 ">
+                <p>
+                    He assured that he would execute the construction of the Shrine from the beginning to the end and took away all the plans and arranged for proper people from Makrana near Jaipur, Rajasthan.
+                </p>
+                <p>
+                    The samples of different grades and shades of marble were forwarded to the Mother for approval.
+                    The cube in the centre is heavy-about 27 maunds (approx. 982 kgs.) in weight.
+                </p>
+                <p>
+                    As decided by the Mother, the relics were placed under the cube.
+                </p>
+            </div> -->
         </div>
     </div>
 </section>
+
 <?php require_once('../../footer.php') ?>

@@ -257,6 +257,10 @@
                         <h4>Inter-State Bus Terminal (ISBT)</h4>
                         <p>Bus No. 501 &amp; 533</p>
 
+                        <h4>Other Bus Routes</h4>
+                        <p>Bus No. 502, 506, 509, 511, 511A, 516, 517, 519, 533, </p>
+                        <p>Bus No. 536, 581, 590, 605, 618, 622 &amp; 725 </p>
+
                         <h4>Airport</h4>
 
                         <p>By Taxi ( about Rs.350 to 400 during Day time)</p>

@@ -37,6 +37,7 @@
                     </div>
                     <div class="col">
                         <p>The nights were long and dark… It appeared hostile forces had taken possession of the place and would not leave it, would not allow anything to flourish there.</p>
+                        <p><a href="../../events/ashram-foundation/divine-battle.php" target="_blank" class="btn btn-sm btn-outline-secondary">The Divine Battle</a>
                     </div>
                 </div>
             </div>

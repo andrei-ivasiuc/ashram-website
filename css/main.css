@@ -89,6 +89,7 @@
     /* Legacy iOS */
 }
 
+
 /* playfair-display-regular - latin */
 @font-face {
     font-family: 'Playfair Display';
@@ -102,7 +103,6 @@
          url('/fonts/playfair-display-v25-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/fonts/playfair-display-v25-latin-regular.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
   }
-
   /* playfair-display-800 - latin */
   @font-face {
     font-family: 'Playfair Display';
@@ -116,7 +116,6 @@
          url('/fonts/playfair-display-v25-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/fonts/playfair-display-v25-latin-800.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
   }
-
   /* playfair-display-900 - latin */
   @font-face {
     font-family: 'Playfair Display';
@@ -216,7 +215,7 @@ h2.lg {
 
 .fullscreen-bg {
     display: flex;
-    height: 75vh;
+    height: 600px;
 }
 
 .fullscreen-bg video {
@@ -264,7 +263,7 @@ section.cta ul li {
 
 .home-section .card img.card-img-top {
     object-fit: cover;
-    height: 250px;
+    height: 320px;
     position: relative;
     background-color: var(--dark);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);
@@ -292,7 +291,7 @@ section.cta ul li {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);
 }
 
-.home-section .card-body h4, .home-section .card-body h4 a {
+.home-section .card-body h4 a {
     color: var(--dark);
     text-decoration: none;
     font-weight: 600;
@@ -301,13 +300,15 @@ section.cta ul li {
 
 .home-section .card-body h6 {
     color: var(--gold-dull);
+    font-weight:600 ;
+    font-size: large;
 }
 
 .home-section .card-body .card-text a,
 #events .card-body .card-text a {
     color: #000;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 
@@ -397,14 +398,6 @@ section.cta ul li {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(7, 1fr);
-}
-
-@media only screen
-and (min-width : 320px)
-and (max-width : 480px) {
-    .block.image-overlap .container {
-        display: block;
-    }
 }
 
 .block.image-overlap .container .img {
@@ -657,7 +650,7 @@ section.image-bg h2 {
     margin: 100px 0;
     text-align: center;
     font-size: 70px;
-    font-weight: 600;
+    font-weight: 650;
     text-transform: uppercase;
 }
 
@@ -665,4 +658,18 @@ section.image-bg h2 {
 
 footer a{
     color: var(--dark);
+}
+
+.article-img {
+    object-fit: cover;
+    height: 150px;
+    position: relative;
+    background-color: var(--dark);
+}
+
+/* ANIVERSARY */
+
+.aniversary-header{
+    width: 100%;
+    filter: drop-shadow(5px 5px 0px rgba(0,0,0,.1));
 }

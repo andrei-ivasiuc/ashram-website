@@ -26,7 +26,7 @@ $latest_articles = array_slice($articles, 0, ARTICLES_NUMBER);
 ?>
 
 <?php if (count($latest_articles) > 0) : ?>
-    <section id="articles" class="home-section" style="background-color: var(--bg-light)">
+    <section id="articles" class="home-section" >
         <div class="container">
             <div class="row">
                 <div class="col text-center mb-4">
@@ -37,15 +37,16 @@ $latest_articles = array_slice($articles, 0, ARTICLES_NUMBER);
             <div class="row mb-5 gy-5">
                 <?php foreach ($latest_articles as $i => $article) : ?>
                     <div class="col-12 col-lg-3 col-md-6">
-                        <div class="card <?php echo $article["type"]?>">
-                            <!-- <div class="img">
+                        <div class="card border border-primary" <?php echo $article["type"]?>" style="background-color: var(--bg-grey); ">
+                            <div class="img">
                                 <a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank"><img src="<?php echo $article["img"] ?>" class="card-img-top" alt="<?php echo $article["title"] ?>"></a>
-                            </div> -->
+                            </div>
                             <div class="card-body">
                                 <h4><a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank"><?php echo $article["title"]?></a></h4>
                                 <!-- <h6><a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank" style="text-decoration:none"><?php echo $article["source"]."|".date_format(date_create($article["date"]), "d M Y")?></a></h6>                                                                 -->
-                                <h6><a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank" style="text-decoration:none"><?php echo date_format(date_create($article["date"]), "d M Y") ?></a></h6>
+                                <h5><a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank" style="text-decoration:none"><?php echo date_format(date_create($article["date"]), "d M Y") ?></a></h5>
                                 <p class="card-text"><a href="<?php echo $article["path"].$topic."/".$article["file"] ?>" target="_blank"><?php echo $article["author"] ?></a></p>
+                                <!-- <p class="card-text"><a href="<?php echo $article["path"] ?>"><?php echo $article["description"] ?></a></p> -->
                             </div>
                         </div>
                     </div>

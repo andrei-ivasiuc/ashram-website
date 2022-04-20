@@ -35,50 +35,75 @@ $past_events = [];
     $diff_days = $diff->days;
 
     // If the date is from the past, multiply by -1 so it is negative
-    if($diff->invert){
+    if ($diff->invert) {
         $diff_days = $diff_days * -1;
     }
 
     if ($diff_days >= 0) {
         array_push($future_events, $event);
-       // echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
+        // echo 'Future ' . $event["date"] . "Today : " . $today . "<br>";
     } else {
         array_push($past_events, $event);
         // echo 'Past ' . $event["date"] . "Today : " . $today . "<br>";
     }
     ?>
 <?php endforeach;
-// Take only 4 latest events
+// Take only 3 latest events
 $latest_events = array_slice($future_events, 0, 4);
 // var_dump($future_events) ;
 // echo "<br>". "laetst" ;
 // var_dump($latest_events);
 ?>
 
+<?php include_once("workshop.php");?>
 <?php if (count($latest_events) > 0) : ?>
-    <section id="events" class="home-section">
+    <section id="events" class="home-section" style="background-color: var(--bg-darker);">
         <div class="container" style="justify-content:center;">
             <div class="row">
-                <div class="col text-center mb-4">
+                <div class="col text-center mb-5">
                     <h2>Happening Soon</h2>
                 </div>
             </div>
-            <div class="row mb-5" style="justify-content: center;">
-                <?php foreach ($latest_events as $i => $event) : ?>
-                    <div class="col-sm-12 col-md-6 col-lg-3">
-                        <div class="card <?php echo $event["type"]?>">
-                            <a href="<?php echo $event["path"] ?>"><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
-                            <div class="card-body">
-                                <?php if(strlen($event["path"]) > 0):?>
-                                    <h4><a href="<?php echo $event["path"] ?>"><?php echo $event["title"] ?></a></h4>
-                                <?php else:?>
-                                    <h4><?php echo $event["title"] ?></h4>
-                                <?php endif;?>
 
-                                
-                                <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
-                            </div>
+            <div class="row  mb-5" style="justify-content: center;">
+                <?php foreach ($latest_events as $i => $event) : ?>
+                    <!-- <div class="col-sm-12 col-md-6 col-lg-3"> -->
+                    <div class="col-12 col-lg-3 col-md-6">
+                        <div class="card <?php echo $event["type"] ?>">
+                            <!-- IF THE PATH IS BLANK, DON'T INCLUDE HYPERLINK -->
+                            <?php if ($event["path"] == "") : { ?>
+                                    <a><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
+                                    <div class="card-body">
+                                        <h4><a><?php echo $event["title"] ?></a></h4>
+                                        <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
+                                    </div>
+                                <?php }
+                            else : { ?>
+                                    <?php if ($event["link"] == "") : { ?>
+                                            <a href="<?php echo $event["path"] ?>"><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
+                                        <?php }
+                                    else : { ?>
+                                            <a href="<?php echo $event["link"] ?>" target="_blank"><img src="<?php echo $event["img"] ?>" class="card-img-top" alt="<?php echo $event["title"] ?>"></a>
+                                    <?php }
+                                    endif; ?>
+
+                                    <div class="card-body">
+                                        <?php if ($event["link"] == "") : { ?>
+                                                <h4><a href="<?php echo $event["path"] ?>"><?php echo $event["title"] ?></a></h4>
+                                            <?php }
+                                        else : { ?>
+                                                <h4><a href="<?php echo $event["link"] ?>" target="_blank"><?php echo $event["title"] ?></a></h4>
+
+                                        <?php }
+                                        endif; ?>
+                                        <h6><?php echo date_format(date_create($event['date']), "d M Y") ?></h6>
+                                        <p class="card-text"><a href="<?php echo $event["path"] ?>"><?php echo $event["description"] ?></a></p>
+                                    </div>
+                            <?php }
+                            endif; ?>
                         </div>
+
+
                     </div>
                 <?php endforeach; ?>
             </div>

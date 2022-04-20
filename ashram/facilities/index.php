@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
                         <p>SABDA can be&nbsp;reached&nbsp;on (011)65684153. It&nbsp;is&nbsp;open from 9:30&nbsp;am to&nbsp;6:30&nbsp;pm Monday to&nbsp;Saturday and from 9:30&nbsp;am to&nbsp;1:30pm on&nbsp;Sundays.</p>
-                        <p><a href="/visit-us" class="btn btn-primary">More on SABDA</a></p>                        
+                        <!-- <p><a href="/visit-us" class="btn btn-primary">More on SABDA</a></p>                         -->
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
                         <div class="sa-img" style="height: 300px;"><img src="./img/sabda.jpg" alt=""></div>
@@ -151,15 +151,19 @@
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
 
                         <p>While the health centre primarily caters to the needs of the school children and the Ashramites, its services are open to all. The unit houses a permanent allopathic dispensary as well as many speciality clinics viz. Homeopathy, Gynecology, Dental surgery, Opthalmology, pediatrics and more. Specialized services are available by appointment. The centre also holds regular yoga, ayurveda and eye camps. The centre also provides free services and medicines to the economically poor.</p>
+                        <p>It runs rural clinics in villages around Nainital in Uttarkhand, Madhya Pradesh, Orissa etc where in addition to free medical aid, clothes and other essentials are also distributed to the needy. The eye camps provide free intraocular transplants and spectacles to the economically weaker sections of society . Timings of the health centre are 8 am to 3.30 pm Monday through Saturday.</p>
+
                     </div>
-                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
+                    <!-- <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
 
                         <p>It runs rural clinics in villages around Nainital in Uttarkhand, Madhya Pradesh, Orissa etc where in addition to free medical aid, clothes and other essentials are also distributed to the needy. The eye camps provide free intraocular transplants and spectacles to the economically weaker sections of society . Timings of the health centre are 8 am to 3.30 pm Monday through Saturday.</p>
+                    </div> -->
+                    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                        <div class="sa-img" style="height: 300px;"><img src="./img/HC-1.JPG" alt=""></div>
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
-
-                        <div class="sa-img" style="height: 300px;"><img src="./img/kitchen-bakery.jpg" alt=""></div>
-                    </div>
+                        <div class="sa-img" style="height: 300px;"><img src="./img/HC-2.JPG" alt=""></div>
+                    </div>                    
                 </div>
             </div>
         </div>
@@ -198,7 +202,7 @@
         <div class="row">
             <div class="col-12">
                 <h4>The Studio</h4>
-                <h2 class="lg mb-4">The Mother’s Centre of Photography</h2>
+                <h2 class="lg mb-4">The Mother’s Centre of Photography and Social Media</h2>
 
                 <div class="row gx-5">
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 mb-4">
@@ -216,7 +220,7 @@
                     </div>
                     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4">
 
-                        <div class="sa-img" style="height: 400px;"><img src="http://sriaurobindoashram.net/Facilites/Untitled-3.JPG" alt=""></div>
+                        <div class="sa-img" style="height: 400px;"><img src="./img/studio.jpg" alt=""></div>
 
                     </div>
                 </div>

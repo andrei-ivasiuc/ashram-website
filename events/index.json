@@ -1,123 +1,137 @@
-[
-    {
-        "path": "/events/ashram-foundation",
-        "title": "Ashram Foundation Day",
+[{
+        "path": "/events/ashram-foundation/",
+        "title": "Delhi Ashram Foundation Day",
         "date": "12-02-2022",
         "description": "",
+        "link": "",
         "img": "/events/ashram-foundation/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "",
+        "path": "/events/mother-birthday",
         "title": "The Mother's Birth Anniversary",
         "date": "21-02-2022",
         "description": "",
+        "link": "",
         "img": "/events/mother-birthday/img/cover.jpg",
-        "type": "celebration"
+        "type": "event"
     },
-    
     {
-        "path": "",
+        "path": "/events/mother-first-arrival",
         "title": "Anniversary of The Mother's First arrival in Pondicherry",
         "date": "29-03-2022",
         "description": "",
+        "link": "",
         "img": "/events/mother-first-arrival/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "",
+        "path": "/events/aurobindo-arrival",
         "title": "Anniversary of Sri Aurobindo's arrival in Pondicherry",
         "date": "04-04-2022",
         "description": "",
+        "link": "",
         "img": "/events/aurobindo-arrival/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/foundation-mis",
-        "title": "Foundation Day of The Mother’s International School",
-        "date": "23-04-2022",
+        "path": "/events/sanskrit/wrkshop-mar-2022",
+        "title": "Sanskrit Workshop",
+        "date": "14-03-2022",
         "description": "",
-        "img": "/events/foundation-mis/img/cover.jpg",
+        "link": "",
+        "img": "/events/sanskrit/wrkshop-mar-2022/img/DSC_4733.jpg",
         "type": "event"
     },
     {
-        "path": "/events/mother-final-arrival",
-        "title": "Anniversary of The Mother's Final arrival in Pondicherry",
+        "path": "/events/baisakhi",
+        "title": "Vaisakhi Parv",
+        "date": "13-04-2022",
+        "description": "",
+        "link": "",
+        "img": "/events/baisakhi/img/13.04.2022 Vaishakhi Parv (6).jpg",
+        "type": "event"
+    },    
+    {
+        "path": "",
+        "title": "102nd Anniversary of The Mother's Final arrival in Puducherry",
         "date": "24-04-2022",
         "description": "",
+        "link": "",
         "img": "/events/mother-final-arrival/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/taradidi-birthday",
-        "title": "Tara didi's birthday",
+        "path": "",
+        "title": "Tara didi's Birthday",
         "date": "05-07-2022",
-        "description": "Our beloved and legendary mentor, Tara Didi turned 85 on 5th July",
+        "description": "",
+        "link": "",
         "img": "/events/taradidi-birthday/img/cover.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/sn-jauhar-birthday",
-        "title": "Birth Anniversary of Sri Surendranath Jauhar 'Faquir'",
+        "path": "",
+        "title": "119th Birth Anniversary of Sri Surendranath Jauhar, 'Faquir'",
         "date": "13-08-2022",
         "description": "",
+        "link": "",
         "img": "/events/sn-jauhar-birthday/img/cover.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/sri-aurobindo-birthday",
-        "title": "Sri Aurobindo's Birthday",
+        "path": "",
+        "title": "150th Anniversary of Sri Aurobindo's Birthday",
         "date": "15-08-2022",
-        "description": "",
+        "description": "75th Year of Independence",
+        "link": "",
         "img": "/events/sri-aurobindo-birthday/img/cover.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/sn-jauhar-samadhi",
-        "title": "Samadhi Day of Sri Surendranath Jauhar 'Faquir'",
+        "path": "",
+        "title": "36th Punya Thithi of Sri Surendranath Jauhar, 'Faquir'",
         "date": "02-09-2022",
         "description": "",
+        "link": "",
         "img": "/events/sn-jauhar-samadhi/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/diwali",
+        "path": "",
         "title": "Diwali - Festival of Light",
         "date": "04-11-2022",
         "description": "",
+        "link": "",
         "img": "/events/diwali/img/cover.jpg",
         "type": "celebration"
     },
     {
-        "path": "/events/mother-samadhi",
+        "path": "",
         "title": "The Mother’s Mahasamadhi Day (Day of silence)",
         "date": "17-11-2022",
         "description": "",
-        "img": "/events//mother-samadhi/img/cover.jpg",
+        "link": "",
+        "img": "/events/mother-samadhi/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/siddhi-day",
+        "path": "",
         "title": "Siddhi Day",
         "date": "24-11-2022",
         "description": "",
-        "img": "/events/siddhi-day/img/cover-thumb.jpg",
+        "link": "",
+        "img": "/events/siddhi-day/img/cover.jpg",
         "type": "event"
     },
     {
-        "path": "/events/sri-aurobindo-samadhi",
+        "path": "",
         "title": "Sri Aurobindo’s Mahasamadhi Day",
         "date": "05-12-2022",
         "description": "",
+        "link": "",
         "img": "/events/sri-aurobindo-samadhi/img/cover.jpg",
         "type": "event"
-    },
-    {
-        "path": "/events/newyear-eve",
-        "title": "Midnight meditation and calendar distribution",
-        "date": "31-12-2022",
-        "description": "",
-        "img": "/events/newyear-eve/img/ny-2021-thumb.jpeg",
-        "type": "celebration"
     }
+    
 ]

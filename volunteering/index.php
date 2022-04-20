@@ -170,8 +170,8 @@
         </div>
         <div class="row mt-4">
             <div class="col text-center">
-                <a href="http://sriaurobindoashram.net/All_PDF/Volunteerform.pdf" class="btn btn-lg btn-primary"><i class="fas fa-file-download"></i> Volunteer Form</a>
-                <a href="http://sriaurobindoashram.net/All_PDF/ResidentVolunterform.pdf" class="btn btn-lg btn-primary"><i class="fas fa-file-download"></i> Resident Volunteer</a>
+                <a href="./flyer/Volunteerform.pdf" class="btn btn-lg btn-primary" target="_blank"><i class="fas fa-file-download"></i> Volunteer Form</a>
+                <a href="./flyer/ResidentVolunterform.pdf" class="btn btn-lg btn-primary" target="_blank"><i class="fas fa-file-download"></i> Resident Volunteer</a>
             </div>
         </div>
     </div>

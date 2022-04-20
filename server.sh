@@ -1,0 +1,1 @@
+docker run -p 80:8080 -v ~/projects/ashram-website:/var/www/html trafex/php-nginx
