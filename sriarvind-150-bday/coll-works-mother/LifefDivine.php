@@ -1,21 +1,31 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'] . '/header.php') ?>
+<section >
+    <div class="container">
+        <div class="row justify-content-center ">
+            <div class="col text-center pt-3">
+                <br>
+                <h1>Sri Aurobindo's "THE LIFE DIVINE"</h1>
+                <h3>Commentaries on "Man and the Evolution"</h3>
+                <h3 class="pb-3">by The Mother</h3>
+                <img src="../img/16- Calcutta August 1907 A-Custom.jpg"  width=40% height="auto" style="background-color:  var(--gold); ">
+            </div>
+        </div>
+    </div>
+</section>
 <section class="sa-section">
     <div class="container">
-        <div class="row justify-content-center pr-3">
+        <div class="row justify-content-center ">
             <div class="col-lg-8 col-sm-12 fs-5 ">
-
                 <!-- <div class="row gx-10 gy-3 pb-3 p-5" style="background-color:#ebe2da; border-radius: 20px;"> -->
-                    <h1>Sri Aurobindo's "THE LIFE DIVINE"</h1>
-                    <h3>Commentaries on "Man and the Evolution"</h3>
-                    <h3 class="pb-3">by The Divine Mother</h3>
-                    <div class="row gx-10 gy-3 pb-3 p-4" style="background-color:#ebe2da; border-radius: 20px;">
-
+                <!-- <h1>Sri Aurobindo's "THE LIFE DIVINE"</h1>
+                <h3>Commentaries on "Man and the Evolution"</h3>
+                <h3 class="pb-3">by The Mother</h3> -->
+                <div class="row gx-10 gy-2 pb-3 p-3" style="background-color:#ebe2da; border-radius: 20px;">
                     <p id="p1" class="para">“<em>A spiritual evolution, an evolution of consciousness in Matter in a constant developing self-formation till the form can reveal the indwelling Spirit, is then the key-note, the central significant motive of the terrestrial existence. This significance is concealed at the outset by the involution of the Spirit, the Divine Reality, in a dense material Inconscience; a veil of Inconscience, a veil of insensibility of Matter hides the universal Consciousness-Force which works within it, so that the Energy, which is the first form the Force of creation assumes in the physical universe, appears to be itself inconscient and yet does the works of a vast occult Intelligence.</em>“</p>
                     <p id="p2" class="para"><em>Sri Aurobindo, The Life Divine, SABCL, Vol. 19, p. 824</em></p>
                 </div>
-
             </div>
-            <div class="row justify-content-center pt-5">
+            <div class="row justify-content-center pt-3">
                 <div class="col-lg-8 col-sm-12 fs-5 ">
                     <p>
                     <h5>The Mother, <em>Questions and Answers (1957 - 1958): 23 October 1957</em></h5>
@@ -36,3 +46,4 @@
                 </div>
             </div>
 </section>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/footer.php') ?>
